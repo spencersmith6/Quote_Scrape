@@ -1,0 +1,5292 @@
+(lp0
+(VDon't cry because it's over, smile because it happened.
+p1
+VDr. Seuss
+p2
+tp3
+a(VI'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.
+p4
+VMarilyn Monroe
+p5
+tp6
+a(VBe yourself; everyone else is already taken.
+p7
+VOscar Wilde
+p8
+tp9
+a(VTwo things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+p10
+VAlbert Einstein
+p11
+tp12
+a(VBe who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.
+p13
+VBernard M. Baruch
+p14
+tp15
+a(VSo many books, so little time.
+p16
+VFrank Zappa
+p17
+tp18
+a(VA room without books is like a body without a soul.
+p19
+VMarcus Tullius Cicero
+p20
+tp21
+a(VYou know you're in love when you can't fall asleep because reality is finally better than your dreams.
+p22
+VDr. Seuss
+p23
+tp24
+a(VYou only live once, but if you do it right, once is enough.
+p25
+VMae West
+p26
+tp27
+a(VBe the change that you wish to see in the world.
+p28
+VMahatma Gandhi
+p29
+tp30
+a(VIn three words I can sum up everything I've learned about life: it goes on.
+p31
+VRobert Frost
+p32
+tp33
+a(VIf you tell the truth, you don't have to remember anything.
+p34
+VMark Twain
+p35
+tp36
+a(VA friend is someone who knows all about you and still loves you.
+p37
+VElbert Hubbard
+p38
+tp39
+a(VI've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.
+p40
+VMaya Angelou
+p41
+tp42
+a(VAlways forgive your enemies; nothing annoys them so much.
+p43
+VOscar Wilde
+p44
+tp45
+a(VLive as if you were to die tomorrow. Learn as if you were to live forever.
+p46
+VMahatma Gandhi
+p47
+tp48
+a(VTo live is the rarest thing in the world. Most people exist, that is all.
+p49
+VOscar Wilde
+p50
+tp51
+a(VTo be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.
+p52
+VRalph Waldo Emerson
+p53
+tp54
+a(VHere's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.
+p55
+VRob Siltanen
+p56
+tp57
+a(VInsanity is doing the same thing, over and over again, but expecting different results.
+p58
+VNarcotics Anonymous
+p59
+tp60
+a(VI believe that everything happens for a reason. People change so that you can learn to let go, things go wrong so that you appreciate them when they're right, you believe lies so you eventually learn to trust no one but yourself, and sometimes good things fall apart so better things can fall together.
+p61
+VMarilyn Monroe
+p62
+tp63
+a(VImperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.
+p64
+VMarilyn Monroe
+p65
+tp66
+a(VThere are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+p67
+VAlbert Einstein
+p68
+tp69
+a(VIt is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it.
+p70
+VMaurice Switzer
+p71
+tp72
+a(VGood friends, good books, and a sleepy conscience: this is the ideal life.
+p73
+VMark Twain
+p74
+tp75
+a(VLife is what happens to us while we are making other plans.
+p76
+VAllen Saunders
+p77
+tp78
+a(VYesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.
+p79
+VBil Keane
+p80
+tp81
+a(VA woman is like a tea bag; you never know how strong it is until it's in hot water.
+p82
+VEleanor Roosevelt
+p83
+tp84
+a(VIf you don't stand for something you will fall for anything.
+p85
+VGordon A. Eadie
+p86
+tp87
+a(VThe man who does not read has no advantage over the man who cannot read.
+p88
+VMark Twain
+p89
+tp90
+a(VThe opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.
+p91
+VElie Wiesel
+p92
+tp93
+a(VIt is not a lack of love, but a lack of friendship that makes unhappy marriages.
+p94
+VFriedrich Nietzsche
+p95
+tp96
+a(VI am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.
+p97
+VAlbert Einstein
+p98
+tp99
+a(VI like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.
+p100
+VDr. Seuss
+p101
+tp102
+a(VA day without sunshine is like, you know, night.
+p103
+VSteve Martin
+p104
+tp105
+a(VNever put off till tomorrow what may be done day after tomorrow just as well.
+p106
+VMark Twain
+p107
+tp108
+a(VThat which does not kill us makes us stronger.
+p109
+VFriedrich Nietzsche
+p110
+tp111
+a(VIf you judge people, you have no time to love them.
+p112
+VMother Teresa
+p113
+tp114
+a(VFor every minute you are angry you lose sixty seconds of happiness.
+p115
+VRalph Waldo Emerson
+p116
+tp117
+a(VIt is never too late to be what you might have been.
+p118
+VGeorge Eliot
+p119
+tp120
+a(VBeing deeply loved by someone gives you strength, while loving someone deeply gives you courage.
+p121
+VLao Tzu
+p122
+tp123
+a(VAnyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.
+p124
+VGarrison Keillor
+p125
+tp126
+a(VIf you can't explain it to a six year old, you don't understand it yourself.
+p127
+VAlbert Einstein
+p128
+tp129
+a(VI'm not upset that you lied to me, I'm upset that from now on I can't believe you.
+p130
+VFriedrich Nietzsche
+p131
+tp132
+a(VWomen and cats will do as they please, and men and dogs should relax and get used to the idea.
+p133
+VRobert A. Heinlein
+p134
+tp135
+a(VI have always imagined that Paradise will be a kind of library.
+p136
+VJorge Luis Borges
+p137
+tp138
+a(VEverything you can imagine is real.
+p139
+VPablo Picasso
+p140
+tp141
+a(VSometimes the questions are complicated and the answers are simple.
+p142
+VDr. Seuss
+p143
+tp144
+a(VAll you need is love. But a little chocolate now and then doesn't hurt.
+p145
+VCharles M. Schulz
+p146
+tp147
+a(VBeauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.
+p148
+VJim Henson
+p149
+tp150
+a(VYou can never get a cup of tea large enough or a book long enough to suit me.
+p151
+VC.S. Lewis
+p152
+tp153
+a(VI'm not afraid of death; I just don't want to be there when it happens.
+p154
+VWoody Allen
+p155
+tp156
+a(VWhenever I feel the need to exercise, I lie down until it goes away.
+p157
+VPaul   Terry
+p158
+tp159
+a(VIf you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.
+p160
+VAlbert Einstein
+p161
+tp162
+a(VLogic will get you from A to Z; imagination will get you everywhere.
+p163
+VAlbert Einstein
+p164
+tp165
+a(VOne good thing about music, when it hits you, you feel no pain.
+p166
+VBob Marley
+p167
+tp168
+a(VFolks are usually about as happy as they make their minds up to be.
+p169
+VAbraham Lincoln
+p170
+tp171
+a(VThe truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.
+p172
+VBob Marley
+p173
+tp174
+a(VLife isn't about finding yourself. Life is about creating yourself.
+p175
+VGeorge Bernard Shaw
+p176
+tp177
+a(VDo what you can, with what you have, where you are.
+p178
+VTheodore Roosevelt
+p179
+tp180
+a(VNot all of us can do great things. But we can do small things with great love.
+p181
+VMother Teresa
+p182
+tp183
+a(VIf one cannot enjoy reading a book over and over again, there is no use in reading it at all.
+p184
+VOscar Wilde
+p185
+tp186
+a(VListen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Listen to the never haves, then listen close to me... Anything can happen, child. Anything can be.
+p187
+VShel Silverstein
+p188
+tp189
+a(VThe difference between genius and stupidity is: genius has its limits.
+p190
+VAlexandre Dumas fils
+p191
+tp192
+a(VWhen one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+p193
+VHelen Keller
+p194
+tp195
+a(VI find television very educating. Every time somebody turns on the set, I go into the other room and read a book.
+p196
+VGroucho Marx
+p197
+tp198
+a(VI would venture to guess that Anon, who wrote so many poems without signing them, was often a woman.
+p199
+VVirginia Woolf
+p200
+tp201
+a(VIf you can make a woman laugh, you can make her do anything.
+p202
+VMarilyn Monroe
+p203
+tp204
+a(VThere is no friend as loyal as a book.
+p205
+VErnest Hemingway
+p206
+tp207
+a(VLife is like riding a bicycle. To keep your balance, you must keep moving.
+p208
+VAlbert Einstein
+p209
+tp210
+a(VSuccess is not final, failure is not fatal: it is the courage to continue that counts.
+p211
+VWinston S. Churchill
+p212
+tp213
+a(VDo one thing every day that scares you.
+p214
+VEleanor Roosevelt
+p215
+tp216
+a(VThe real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.
+p217
+VMarilyn Monroe
+p218
+tp219
+a(VA wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.
+p220
+VMarilyn Monroe
+p221
+tp222
+a(VSome people never go crazy. What truly horrible lives they must lead.
+p223
+VCharles Bukowski
+p224
+tp225
+a(VIf I had a flower for every time I thought of you...I could walk through my garden forever.
+p226
+VAlfred Tennyson
+p227
+tp228
+a(VI am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.
+p229
+VMarilyn Monroe
+p230
+tp231
+a(VIt is what you read when you don't have to that determines what you will be when you can't help it.
+p232
+VOscar Wilde
+p233
+tp234
+a(VGo to heaven for the climate and hell for the company.
+p235
+VBenjamin Franklin Wade
+p236
+tp237
+a(VYou may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.
+p238
+VJohn Lennon
+p239
+tp240
+a(VI am free of all prejudice. I hate everyone equally.
+p241
+VW.C. Fields
+p242
+tp243
+a(VThere is nothing to writing. All you do is sit down at a typewriter and bleed.
+p244
+VErnest Hemingway
+p245
+tp246
+a(VIf there's a book that you want to read, but it hasn't been written yet, then you must write it.
+p247
+VToni Morrison
+p248
+tp249
+a(VFinish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.
+p250
+VRalph Waldo Emerson
+p251
+tp252
+a(VI have never let my schooling interfere with my education.
+p253
+VMark Twain
+p254
+tp255
+a(VThere is nothing better than a friend, unless it is a friend with chocolate.
+p256
+VLinda Grayson
+p257
+tp258
+a(VThe question isn't who is going to let me; it's who is going to stop me.
+p259
+VAyn Rand
+p260
+tp261
+a(VIt takes courage to grow up and become who you really are.
+p262
+VE.E. Cummings
+p263
+tp264
+a(VAnyone who has never made a mistake has never tried anything new.
+p265
+VAlbert Einstein
+p266
+tp267
+a(VBut better to get hurt by the truth than comforted with a lie.
+p268
+VKhaled Hosseini
+p269
+tp270
+a(VSome day you will be old enough to start reading fairy tales again.
+p271
+VC.S. Lewis
+p272
+tp273
+a(VThe fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.
+p274
+VMark Twain
+p275
+tp276
+a(VA lie can travel half way around the world while the truth is putting on its shoes.
+p277
+VMark Twain
+p278
+tp279
+a(VI believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.
+p280
+VC.S. Lewis
+p281
+tp282
+a(VNever tell the truth to people who are not worthy of it.
+p283
+VMark Twain
+p284
+tp285
+a(VI know God won't give me anything I can't handle. I just wish he didn't trust me so much.
+p286
+VAnonymous
+p287
+tp288
+a(VA day without laughter is a day wasted.
+p289
+VNicolas Chamfort
+p290
+tp291
+a(VKnowing yourself is the beginning of all wisdom.
+p292
+VAristotle
+p293
+tp294
+a(VBe careful about reading health books. Some fine day you'll die of a misprint.
+p295
+VMarkus Herz
+p296
+tp297
+a(VAn eye for an eye will only make the whole world blind.
+p298
+VMahatma Gandhi
+p299
+tp300
+a(VI would rather walk with a friend in the dark, than alone in the light.
+p301
+VHelen Keller
+p302
+tp303
+a(VI became insane, with long intervals of horrible sanity.
+p304
+VEdgar Allan Poe
+p305
+tp306
+a(VCreativity is knowing how to hide your sources
+p307
+VC.E.M. Joad
+p308
+tp309
+a(VThose who don't believe in magic will never find it.
+p310
+VRoald Dahl
+p311
+tp312
+a(VI speak to everyone in the same way, whether he is the garbage man or the president of the university.
+p313
+VAlbert Einstein
+p314
+tp315
+a(VBooks are the quietest and most constant of friends; they are the most accessible and wisest of counselors, and the most patient of teachers.
+p316
+VCharles William Eliot
+p317
+tp318
+a(VYou can never be overdressed or overeducated.
+p319
+VOscar Wilde
+p320
+tp321
+a(VThe only true wisdom is in knowing you know nothing.
+p322
+VSocrates
+p323
+tp324
+a(VFate is like a strange, unpopular restaurant filled with odd little waiters who bring you things you never asked for and don't always like.
+p325
+VLemony Snicket
+p326
+tp327
+a(VKeep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.
+p328
+VMark Twain
+p329
+tp330
+a(VHappiness is when what you think, what you say, and what you do are in harmony.
+p331
+VMahatma Gandhi
+p332
+tp333
+a(VMusic expresses that which cannot be put into words and that which cannot remain silent
+p334
+VVictor Hugo
+p335
+tp336
+a(VA children's story that can only be enjoyed by children is not a good children's story in the slightest.
+p337
+VC.S. Lewis
+p338
+tp339
+a(VIf you don't know where you're going, any road'll take you there
+p340
+VGeorge Harrison
+p341
+tp342
+a(VYou can love someone so much...But you can never love people as much as you can miss them.
+p343
+VJohn Green
+p344
+tp345
+a(VNothing is impossible, the word itself says 'I'm possible'!
+p346
+VAudrey Hepburn
+p347
+tp348
+a(VThe saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+p349
+VIsaac Asimov
+p350
+tp351
+a(VAnd above all, watch with glittering eyes the whole world around you because the greatest secrets are always hidden in the most unlikely places. Those who don't believe in magic will never find it.
+p352
+VRoald Dahl
+p353
+tp354
+a(VYou will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
+p355
+VAlbert Camus
+p356
+tp357
+a(VMaybe our favorite quotations say more about us than about the stories and people we're quoting.
+p358
+VJohn Green
+p359
+tp360
+a(VIf we find ourselves with a desire that nothing in this world can satisfy, the most probable explanation is that we were made for another world.
+p361
+VC.S. Lewis
+p362
+tp363
+a(VI refuse to answer that question on the grounds that I don't know the answer
+p364
+VDouglas Adams
+p365
+tp366
+a(VWe love the things we love for what they are.
+p367
+VRobert Frost
+p368
+tp369
+a(VEveryone thinks of changing the world, but no one thinks of changing himself.
+p370
+VLeo Tolstoy
+p371
+tp372
+a(VHappiness is not something ready made. It comes from your own actions.
+p373
+VDalai Lama XIV
+p374
+tp375
+a(VPeace begins with a smile..
+p376
+VMother Teresa
+p377
+tp378
+a(VYou don't have to burn books to destroy a culture. Just get people to stop reading them.
+p379
+VRay Bradbury
+p380
+tp381
+a(VCount your age by friends, not years. Count your life by smiles, not tears.
+p382
+VJohn Lennon
+p383
+tp384
+a(VEvery man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad.
+p385
+VHenry Wadsworth Longfellow
+p386
+tp387
+a(VPromise me you'll always remember: You're braver than you believe, and stronger than you seem, and smarter than you think.
+p388
+VCarter Crocker
+p389
+tp390
+a(VYou cannot find peace by avoiding life.
+p391
+VVirginia Woolf
+p392
+tp393
+a(VAll that we see or seem is but a dream within a dream.
+p394
+VEdgar Allan Poe
+p395
+tp396
+a(VThe Christian does not think God will love us because we are good, but that God will make us good because He loves us.
+p397
+VC.S. Lewis
+p398
+tp399
+a(VDo not read, as children do, to amuse yourself, or like the ambitious, for the purpose of instruction. No, read in order to live.
+p400
+VGustave Flaubert
+p401
+tp402
+a(VWhat lies behind us and what lies before us are tiny matters compared to what lies within us.
+p403
+VRalph Waldo Emerson
+p404
+tp405
+a(VNever doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.
+p406
+VMargaret Mead
+p407
+tp408
+a(VIf ever there is tomorrow when we're not together... there is something you must always remember. You are braver than you believe, stronger than you seem, and smarter than you think. But the most important thing is, even if we're apart... I'll always be with you.
+p409
+VA.A. Milne
+p410
+tp411
+a(VWhen it comes down to it, I let them think what they want. If they care enough to bother with what I do, then I'm already better than them.
+p412
+VMarilyn Monroe
+p413
+tp414
+a(VWhen you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, 'Damn, that was fun'.
+p415
+VGroucho Marx
+p416
+tp417
+a(VThere's a fine line between genius and insanity. I have erased this line.
+p418
+VOscar Levant
+p419
+tp420
+a(VMost people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.
+p421
+VOscar Wilde
+p422
+tp423
+a(VFirst they ignore you, then they ridicule you, then they fight you, and then you win.
+p424
+VMahatma Gandhi
+p425
+tp426
+a(VThose who believe in telekinetics, raise my hand.
+p427
+VKurt Vonnegut
+p428
+tp429
+a(VNever memorize something that you can look up.
+p430
+VAlbert Einstein
+p431
+tp432
+a(VTwo wrongs don't make a right, but they make a good excuse.
+p433
+VThomas Szasz
+p434
+tp435
+a(VIn a good bookroom you feel in some mysterious way that you are absorbing the wisdom contained in all the books through your skin, without even opening them.
+p436
+VMark Twain
+p437
+tp438
+a(VWhatever you are, be a good one.
+p439
+VAbraham Lincoln
+p440
+tp441
+a(VWhere there is love there is life.
+p442
+VMahatma Gandhi
+p443
+tp444
+a(VWicked people never have time for reading. It's one of the reasons for their wickedness.
+p445
+VLemony Snicket
+p446
+tp447
+a(VNever love anyone who treats you like you're ordinary.
+p448
+VOscar Wilde
+p449
+tp450
+a(VA good friend will always stab you in the front.
+p451
+VOscar Wilde
+p452
+tp453
+a(VNobody has ever measured, not even poets, how much the heart can hold.
+p454
+VZelda Fitzgerald
+p455
+tp456
+a(VBe kind, for everyone you meet is fighting a harder battle.
+p457
+VPlato
+p458
+tp459
+a(VThe best love is the kind that awakens the soul and makes us reach for more, that plants a fire in our hearts and brings peace to our minds. And that's what you've given me. That's what I'd hoped to give you forever
+p460
+VNicholas Sparks
+p461
+tp462
+a(VI've never fooled anyone. I've let people fool themselves. They didn't bother to find out who and what I was. Instead they would invent a character for me. I wouldn't argue with them. They were obviously loving somebody I wasn't.
+p463
+VMarilyn Monroe
+p464
+tp465
+a(VWe should all start to live before we get too old. Fear is stupid. So are regrets.
+p466
+VMarilyn Monroe
+p467
+tp468
+a(VA clever person solves a problem. A wise person avoids it.
+p469
+VAlbert Einstein
+p470
+tp471
+a(VIn the depth of winter, I finally learned that within me there lay an invincible summer.
+p472
+VAlbert Camus
+p473
+tp474
+a(VSome women choose to follow men, and some women choose to follow their dreams. If you're wondering which way to go, remember that your career will never wake up and tell you that it doesn't love you anymore.
+p475
+VLady Gaga
+p476
+tp477
+a(VI don't want to go to heaven. None of my friends are there.
+p478
+VOscar Wilde
+p479
+tp480
+a(VIf the world were merely seductive, that would be easy. If it were merely challenging, that would be no problem. But I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day.
+p481
+VE.B. White
+p482
+tp483
+a(VSubstitute 'damn' every time you're inclined to write 'very;' your editor will delete it and the writing will be just as it should be.
+p484
+VMark Twain
+p485
+tp486
+a(VI love sleep. My life has the tendency to fall apart when I'm awake, you know?
+p487
+VErnest Hemingway
+p488
+tp489
+a(VIf more of us valued food and cheer and song above hoarded gold, it would be a merrier world.
+p490
+VJ.R.R. Tolkien
+p491
+tp492
+a(VReader, suppose you were an idiot. And suppose you were a member of Congress. But I repeat myself.
+p493
+VMark Twain
+p494
+tp495
+a(VScience without religion is lame, religion without science is blind.
+p496
+VAlbert Einstein
+p497
+tp498
+a(VMay you live every day of your life.
+p499
+VJonathan Swift
+p500
+tp501
+a(VYou educate a man; you educate a man. You educate a woman; you educate a generation.
+p502
+VBrigham Young
+p503
+tp504
+a(VWe loved with a love that was more than love.
+p505
+VEdgar Allan Poe
+p506
+tp507
+a(VSome books should be tasted, some devoured, but only a few should be chewed and digested thoroughly.
+p508
+VFrancis Bacon
+p509
+tp510
+a(VWhen someone shows you who they are believe them; the first time.
+p511
+VMaya Angelou
+p512
+tp513
+a(VWe have to dare to be ourselves, however frightening or strange that self may prove to be.
+p514
+VMay Sarton
+p515
+tp516
+a(VSleep is good, he said, and books are better.
+p517
+VGeorge R.R. Martin
+p518
+tp519
+a(VReading is one form of escape. Running for your life is another.
+p520
+VLemony Snicket
+p521
+tp522
+a(VThe meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.
+p523
+VC.G. Jung
+p524
+tp525
+a(VEvery heart sings a song, incomplete, until another heart whispers back. Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet.
+p526
+VPlato
+p527
+tp528
+a(VNever go to bed mad. Stay up and fight.
+p529
+VPhyllis Diller
+p530
+tp531
+a(VNever laugh at live dragons.
+p532
+VJ.R.R. Tolkien
+p533
+tp534
+a(VReality is merely an illusion, albeit a very persistent one.
+p535
+VAlbert Einstein
+p536
+tp537
+a(VEating and reading are two pleasures that combine admirably.
+p538
+VC.S. Lewis
+p539
+tp540
+a(VAnyone who lives within their means suffers from a lack of imagination.
+p541
+VOscar Wilde
+p542
+tp543
+a(VI believe in everything until it's disproved. So I believe in fairies, the myths, dragons. It all exists, even if it's in your mind. Who's to say that dreams and nightmares aren't as real as the here and now?
+p544
+VJohn Lennon
+p545
+tp546
+a(VI hope that in this year to come, you make mistakes. Because if you are making mistakes...you're Doing Something.
+p547
+VNeil Gaiman
+p548
+tp549
+a(VA guy and a girl can be just friends, but at one point or another, they will fall for each other...Maybe temporarily, maybe at the wrong time, maybe too late, or maybe forever
+p550
+VDave Matthews Band
+p551
+tp552
+a(VGive a girl the right shoes, and she can conquer the world.
+p553
+VBette Midler
+p554
+tp555
+a(VA pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.
+p556
+VWinston S. Churchill
+p557
+tp558
+a(VIsn't it nice to think that tomorrow is a new day with no mistakes in it yet?
+p559
+VL.M. Montgomery
+p560
+tp561
+a(VI like work: it fascinates me. I can sit and look at it for hours.
+p562
+VJerome K. Jerome
+p563
+tp564
+a(VI would challenge you to a battle of wits, but I see you are unarmed!
+p565
+VWilliam Shakespeare
+p566
+tp567
+a(VMan is the only creature who refuses to be what he is.
+p568
+VAlbert Camus
+p569
+tp570
+a(VWhen I have a little money, I buy books; and if I have any left, I buy food and clothes.
+p571
+VErasmus
+p572
+tp573
+a(VLet us read, and let us dance; these two amusements will never do any harm to the world.
+p574
+VVoltaire
+p575
+tp576
+a(VAnd those who were seen dancing were thought to be insane by those who could not hear the music.
+p577
+VFriedrich Nietzsche
+p578
+tp579
+a(VThe planet is fine. The people are fucked.
+p580
+VGeorge Carlin
+p581
+tp582
+a(VBooks are the perfect entertainment: no commercials, no batteries, hours of enjoyment for each dollar spent. What I wonder is why everybody doesn't carry a book around for those inevitable dead spots in life.
+p583
+VStephen King
+p584
+tp585
+a(VIf we knew what it was we were doing, it would not be called research, would it?
+p586
+VAlbert Einstein
+p587
+tp588
+a(VEvery saint has a past, and every sinner has a future.
+p589
+VOscar Wilde
+p590
+tp591
+a(VYou can talk with someone for years, everyday, and still, it won't mean as much as what you can have when you sit in front of someone, not saying a word, yet you feel that person with your heart, you feel like you have known the person for forever.... connections are made with the heart, not the tongue.
+p592
+VC. JoyBell C.
+p593
+tp594
+a(VI have no special talents. I am only passionately curious.
+p595
+VAlbert Einstein
+p596
+tp597
+a(VWhat's meant to be will always find a way
+p598
+VTrisha Yearwood
+p599
+tp600
+a(VIf a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?
+p601
+VAlbert Einstein
+p602
+tp603
+a(VFaith is taking the first step even when you can't see the whole staircase.
+p604
+VMartin Luther King Jr.
+p605
+tp606
+a(VAlways do what you are afraid to do.
+p607
+VRalph Waldo Emerson
+p608
+tp609
+a(VI am not young enough to know everything.
+p610
+VOscar Wilde
+p611
+tp612
+a(VA life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+p613
+VGeorge Bernard Shaw
+p614
+tp615
+a(VMake it a rule never to give a child a book you would not read yourself.
+p616
+VGeorge Bernard Shaw
+p617
+tp618
+a(VOnce you learn to read, you will be forever free.
+p619
+VFrederick Douglass
+p620
+tp621
+a(VYour task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.
+p622
+VJalaluddin Rumi
+p623
+tp624
+a(VThe world is a book and those who do not travel read only one page.
+p625
+VAugustine of Hippo
+p626
+tp627
+a(VIn the end, we will remember not the words of our enemies, but the silence of our friends.
+p628
+VMartin Luther King Jr.
+p629
+tp630
+a(VYou have enemies? Good. That means you've stood up for something, sometime in your life.
+p631
+VWinston S. Churchill
+p632
+tp633
+a(VTwo people in love, alone, isolated from the world, that's beautiful.
+p634
+VMilan Kundera
+p635
+tp636
+a(VThink of all the beauty still left around you and be happy.
+p637
+VAnne Frank
+p638
+tp639
+a(VWhere is human nature so weak as in the bookstore?
+p640
+VHenry Ward Beecher
+p641
+tp642
+a(VThere are two motives for reading a book; one, that you enjoy it; the other, that you can boast about it.
+p643
+VBertrand Russell
+p644
+tp645
+a(VTalent hits a target no one else can hit. Genius hits a target no one else can see.
+p646
+VArthur Schopenhauer
+p647
+tp648
+a(VThe heart was made to be broken.
+p649
+VOscar Wilde
+p650
+tp651
+a(VThey say a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for.
+p652
+VTom Bodett
+p653
+tp654
+a(VThe best index to a person's character is how he treats people who can't do him any good, and how he treats people who can't fight back.
+p655
+VAbigail Van Buren
+p656
+tp657
+a(VIf at first you don't succeed, try, try again. Then quit. No use being a damn fool about it.
+p658
+VW.C. Fields
+p659
+tp660
+a(VI cannot live without books.
+p661
+VThomas Jefferson
+p662
+tp663
+a(VI generally avoid temptation unless I can't resist it.
+p664
+VMae West
+p665
+tp666
+a(VAll little girls should be told they are pretty, even if they aren't.
+p667
+VMarilyn Monroe
+p668
+tp669
+a(VI did not attend his funeral, but I sent a nice letter saying I approved of it.
+p670
+VMark Twain
+p671
+tp672
+a(VWe delight in the beauty of the butterfly, but rarely admit the changes it has gone through to achieve that beauty.
+p673
+VMaya Angelou
+p674
+tp675
+a(VI can't imagine a man really enjoying a book and reading it only once.
+p676
+VC.S. Lewis
+p677
+tp678
+a(VOne, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don't throw it away.
+p679
+VStephen Hawking
+p680
+tp681
+a(VGod created war so that Americans would learn geography.
+p682
+VMark Twain
+p683
+tp684
+a(VWhat is a friend? A single soul dwelling in two bodies.
+p685
+VAristotle
+p686
+tp687
+a(VIt's not true that I had nothing on. I had the radio on.
+p688
+VMarilyn Monroe
+p689
+tp690
+a(VIt is hard enough to remember my opinions, without also remembering my reasons for them!
+p691
+VFriedrich Nietzsche
+p692
+tp693
+a(VThe most courageous act is still to think for yourself. Aloud.
+p694
+VCoco Chanel
+p695
+tp696
+a(VYou don't love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear.
+p697
+VOscar Wilde
+p698
+tp699
+a(VA thing is not necessarily true because a man dies for it.
+p700
+VOscar Wilde
+p701
+tp702
+a(VMonsters are real, and ghosts are real too. They live inside us, and sometimes, they win.
+p703
+VStephen King
+p704
+tp705
+a(VFantasy is hardly an escape from reality. It's a way of understanding it.
+p706
+VLloyd Alexander
+p707
+tp708
+a(VSomewhere, something incredible is waiting to be known.
+p709
+VCarl Sagan
+p710
+tp711
+a(VHappiness is a warm puppy.
+p712
+VCharles M. Schulz
+p713
+tp714
+a(VDo not go where the path may lead, go instead where there is no path and leave a trail.
+p715
+VRalph Waldo Emerson
+p716
+tp717
+a(VI think if I've learned anything about friendship, it's to hang in, stay connected, fight for them, and let them fight for you. Don't walk away, don't be distracted, don't be too busy or tired, don't take them for granted. Friends are part of the glue that holds life and faith together. Powerful stuff.
+p718
+VJon Katz
+p719
+tp720
+a(VEither write something worth reading or do something worth writing.
+p721
+VBenjamin Franklin
+p722
+tp723
+a(VIt is not in the stars to hold our destiny but in ourselves.
+p724
+VWilliam Shakespeare
+p725
+tp726
+a(VIn a time of deceit telling the truth is a revolutionary act.
+p727
+VGeorge Orwell
+p728
+tp729
+a(VI don't know the question, but sex is definitely the answer.
+p730
+VWoody Allen
+p731
+tp732
+a(VYou never have to change anything you got up in the middle of the night to write.
+p733
+VSaul Bellow
+p734
+tp735
+a(Vwhat matters most is how well you walk through the fire
+p736
+VCharles Bukowski
+p737
+tp738
+a(VBooks may well be the only true magic.
+p739
+VAlice Hoffman
+p740
+tp741
+a(VIf you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.
+p742
+VMartin Luther King Jr.
+p743
+tp744
+a(VBeneath the makeup and behind the smile I am just a girl who wishes for the world.
+p745
+VMarilyn Monroe
+p746
+tp747
+a(VAs usual, there is a great woman behind every idiot.
+p748
+VJohn Lennon
+p749
+tp750
+a(VFantasy is a necessary ingredient in living, it's a way of looking at life through the wrong end of a telescope.
+p751
+VDr. Seuss
+p752
+tp753
+a(VI have loved the stars too fondly to be fearful of the night.
+p754
+VSarah   Williams
+p755
+tp756
+a(VBeing crazy isn't enough.
+p757
+VDr. Seuss
+p758
+tp759
+a(VYou cannot protect yourself from sadness without protecting yourself from happiness.
+p760
+VJonathan Safran Foer
+p761
+tp762
+a(VGood books don't give up all their secrets at once.
+p763
+VStephen King
+p764
+tp765
+a(VLaughter is timeless. Imagination has no age. And dreams are forever.
+p766
+VWalt Disney Company
+p767
+tp768
+a(VLife is a disease: sexually transmitted, and invariably fatal.
+p769
+VNeil Gaiman
+p770
+tp771
+a(VAbove all, be the heroine of your life, not the victim.
+p772
+VNora Ephron
+p773
+tp774
+a(VWhy fit in when you were born to stand out?
+p775
+VDr. Seuss
+p776
+tp777
+a(VAny fool can know. The point is to understand.
+p778
+VAlbert Einstein
+p779
+tp780
+a(VI love to see a young girl go out and grab the world by the lapels. Life's a bitch. You've got to go out and kick ass.
+p781
+VMaya Angelou
+p782
+tp783
+a(VEverything in the world is about sex except sex. Sex is about power.
+p784
+VOscar Wilde
+p785
+tp786
+a(VThere are worse crimes than burning books. One of them is not reading them.
+p787
+VJoseph Brodsky
+p788
+tp789
+a(VNever allow someone to be your priority while allowing yourself to be their option.
+p790
+VMark Twain
+p791
+tp792
+a(VWe're all going to die, all of us, what a circus! That alone should make us love each other but it doesn't. We are terrorized and flattened by trivialities, we are eaten up by nothing.
+p793
+VCharles Bukowski
+p794
+tp795
+a(VBut luxury has never appealed to me, I like simple things, books, being alone, or with somebody who understands.
+p796
+VDaphne du Maurier
+p797
+tp798
+a(VMen occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing ever happened.
+p799
+VWinston S. Churchill
+p800
+tp801
+a(VTime flies like an arrow; fruit flies like a banana.
+p802
+VAnthony G. Oettinger
+p803
+tp804
+a(VTry not to become a man of success. Rather become a man of value.
+p805
+VAlbert Einstein
+p806
+tp807
+a(VMan is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.
+p808
+VOscar Wilde
+p809
+tp810
+a(VNo tears in the writer, no tears in the reader. No surprise in the writer, no surprise in the reader.
+p811
+VRobert Frost
+p812
+tp813
+a(VBut who prays for Satan? Who, in eighteen centuries, has had the common humanity to pray for the one sinner that needed it most?
+p814
+VMark Twain
+p815
+tp816
+a(VA girl should be two things: classy and fabulous.
+p817
+VCoco Chanel
+p818
+tp819
+a(VI love people who make me laugh. I honestly think it's the thing I like most, to laugh. It cures a multitude of ills. It's probably the most important thing in a person.
+p820
+VAudrey Hepburn
+p821
+tp822
+a(VTurn your wounds into wisdom.
+p823
+VOprah Winfrey
+p824
+tp825
+a(VThe nicest thing for me is sleep, then at least I can dream.
+p826
+VMarilyn Monroe
+p827
+tp828
+a(VWhatever it is you're seeking won't come in the form you're expecting.
+p829
+VHaruki Murakami
+p830
+tp831
+a(VA human being is a part of the whole called by us universe, a part limited in time and space. He experiences himself, his thoughts and feeling as something separated from the rest, a kind of optical delusion of his consciousness. This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us. Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty.
+p832
+VAlbert Einstein
+p833
+tp834
+a(VThere is always some madness in love. But there is also always some reason in madness.
+p835
+VFriedrich Nietzsche
+p836
+tp837
+a(VI like your Christ, I do not like your Christians. Your Christians are so unlike your Christ.
+p838
+VMahatma Gandhi
+p839
+tp840
+a(VI am a badass, and I recognize that you, too, are a badass.
+p841
+VCassandra Clare
+p842
+tp843
+a(VThe unexamined life is not worth living.
+p844
+VSocrates
+p845
+tp846
+a(VSome people feel the rain. Others just get wet.
+p847
+VBob Marley
+p848
+tp849
+a(VTwo possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.
+p850
+VArthur C. Clarke
+p851
+tp852
+a(VCourage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.
+p853
+VMaya Angelou
+p854
+tp855
+a(VEducation is what remains after one has forgotten what one has learned in school.
+p856
+VAnonymous
+p857
+tp858
+a(VEvery child is an artist. The problem is how to remain an artist once he grows up.
+p859
+VPablo Picasso
+p860
+tp861
+a(VThe wound is the place where the Light enters you.
+p862
+VJalaluddin Rumi
+p863
+tp864
+a(VPrayer is not asking. It is a longing of the soul. It is daily admission of one's weakness. It is better in prayer to have a heart without words than words without a heart.
+p865
+VMahatma Gandhi
+p866
+tp867
+a(VIf you are going through hell, keep going.
+p868
+VWinston S. Churchill
+p869
+tp870
+a(VI am not sure exactly what heaven will be like, but I know that when we die and it comes time for God to judge us, he will not ask, 'How many good things have you done in your life?' rather he will ask, 'How much love did you put into what you did?
+p871
+VMother Teresa
+p872
+tp873
+a(VLove is a fire. But whether it is going to warm your hearth or burn down your house, you can never tell.
+p874
+VJoan Crawford
+p875
+tp876
+a(VNobody realizes that some people expend tremendous energy merely to be normal.
+p877
+VAlbert Camus
+p878
+tp879
+a(VIt's not denial. I'm just selective about the reality I accept.
+p880
+VBill Watterson
+p881
+tp882
+a(VLive, travel, adventure, bless, and don't be sorry.
+p883
+VJack Kerouac
+p884
+tp885
+a(VI think God, in creating man, somewhat overestimated his ability.
+p886
+VOscar Wilde
+p887
+tp888
+a(VMy tastes are simple: I am easily satisfied with the best.
+p889
+VWinston S. Churchill
+p890
+tp891
+a(VWhen a man gives his opinion, he's a man. When a woman gives her opinion, she's a bitch.
+p892
+VBette Davis
+p893
+tp894
+a(VLoyalty to country ALWAYS. Loyalty to government, when it deserves it.
+p895
+VMark Twain
+p896
+tp897
+a(VNever be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed. If people all over the world...would do this, it would change the earth.
+p898
+VWilliam Faulkner
+p899
+tp900
+a(VWhoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you.
+p901
+VFriedrich Nietzsche
+p902
+tp903
+a(VThe future belongs to those who believe in the beauty of their dreams.
+p904
+VEleanor Roosevelt
+p905
+tp906
+a(VEducation is the most powerful weapon which you can use to change the world.
+p907
+VNelson Mandela
+p908
+tp909
+a(VI like living. I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow; but through it all I still know quite certainly that just to be alive is a grand thing.
+p910
+VAgatha Christie
+p911
+tp912
+a(VBooks are like mirrors: if a fool looks in, you cannot expect a genius to look out.
+p913
+VJ.K. Rowling
+p914
+tp915
+a(VPainting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen.
+p916
+VLeonardo da Vinci
+p917
+tp918
+a(VYou wouldn't worry so much about what others think of you if you realized how seldom they do.
+p919
+VEleanor Roosevelt
+p920
+tp921
+a(VYou have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist.
+p922
+VFriedrich Nietzsche
+p923
+tp924
+a(VWho said nights were for sleep?
+p925
+VMarilyn Monroe
+p926
+tp927
+a(VFreedom is not worth having if it does not include the freedom to make mistakes.
+p928
+VMahatma Gandhi
+p929
+tp930
+a(VShow me a hero, and I'll write you a tragedy.
+p931
+VF. Scott Fitzgerald
+p932
+tp933
+a(VWoke up this morning with a terrific urge to lie in bed all day and read.
+p934
+VRaymond Carver
+p935
+tp936
+a(VPeople haven't always been there for me but music always has.
+p937
+VTaylor Swift
+p938
+tp939
+a(VWise men speak because they have something to say; fools because they have to say something.
+p940
+VPlato
+p941
+tp942
+a(VYou think your pain and your heartbreak are unprecedented in the history of the world, but then you read. It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive, who had ever been alive.
+p943
+VJames     Baldwin
+p944
+tp945
+a(VOne day, in retrospect, the years of struggle will strike you as the most beautiful.
+p946
+VSigmund Freud
+p947
+tp948
+a(VIn the case of good books, the point is not to see how many of them you can get through, but rather how many can get through to you.
+p949
+VMortimer J. Adler
+p950
+tp951
+a(VThat is part of the beauty of all literature. You discover that your longings are universal longings, that you're not lonely and isolated from anyone. You belong.
+p952
+VF. Scott Fitzgerald
+p953
+tp954
+a(VWrinkles should merely indicate where the smiles have been.
+p955
+VMark Twain
+p956
+tp957
+a(VNobody can hurt me without my permission.
+p958
+VMahatma Gandhi
+p959
+tp960
+a(VI don't trust people who don't love themselves and tell me, 'I love you.' ... There is an African saying which is: Be careful when a naked person offers you a shirt.
+p961
+VMaya Angelou
+p962
+tp963
+a(VNone but ourselves can free our minds.
+p964
+VBob Marley
+p965
+tp966
+a(VFriendship is the hardest thing in the world to explain. It's not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+p967
+VMuhammad Ali
+p968
+tp969
+a(VShould I kill myself, or have a cup of coffee?
+p970
+VAlbert Camus
+p971
+tp972
+a(VIt is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
+p973
+VTheodore Roosevelt
+p974
+tp975
+a(VThe best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart
+p976
+VHelen Keller
+p977
+tp978
+a(VLife's under no obligation to give us what we expect.
+p979
+VMargaret Mitchell
+p980
+tp981
+a(VIf you have a garden and a library, you have everything you need.
+p982
+VMarcus Tullius Cicero
+p983
+tp984
+a(VFiction is the truth inside the lie.
+p985
+VStephen King
+p986
+tp987
+a(VWomen who seek to be equal with men lack ambition.
+p988
+VTimothy Leary
+p989
+tp990
+a(VStories of imagination tend to upset those without one.
+p991
+VTerry Pratchett
+p992
+tp993
+a(VTo be a Christian means to forgive the inexcusable because God has forgiven the inexcusable in you.
+p994
+VC.S. Lewis
+p995
+tp996
+a(VI read so I can live more than one life in more than one place.
+p997
+VAnne Tyler
+p998
+tp999
+a(VDon't judge each day by the harvest you reap but by the seeds that you plant.
+p1000
+VRobert Louis Stevenson
+p1001
+tp1002
+a(VYou cannot swim for new horizons until you have courage to lose sight of the shore.
+p1003
+VWilliam Faulkner
+p1004
+tp1005
+a(VYou must have chaos within you to give birth to a dancing star.
+p1006
+VFriedrich Nietzsche
+p1007
+tp1008
+a(VBlessed is he who expects nothing, for he shall never be disappointed.
+p1009
+VAlexander Pope
+p1010
+tp1011
+a(VWe do not need magic to transform our world. We carry all the power we need inside ourselves already.
+p1012
+VJ.K. Rowling
+p1013
+tp1014
+a(VWhen life gives you lemons, squirt someone in the eye.
+p1015
+VCathy Guisewite
+p1016
+tp1017
+a(VSometimes our light goes out, but is blown again into instant flame by an encounter with another human being.
+p1018
+VAlbert Schweitzer
+p1019
+tp1020
+a(VHow many slams in an old screen door? Depends how loud you shut it. How many slices in a bread? Depends how thin you cut it. How much good inside a day? Depends how good you live 'em. How much love inside a friend? Depends how much you give 'em.
+p1021
+VShel Silverstein
+p1022
+tp1023
+a(VOnce you can accept the universe as matter expanding into nothing that is something, wearing stripes with plaid comes easy.
+p1024
+VAlbert Einstein
+p1025
+tp1026
+a(VBy three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.
+p1027
+VConfucius
+p1028
+tp1029
+a(VWe live for books.
+p1030
+VUmberto Eco
+p1031
+tp1032
+a(VGod has no religion.
+p1033
+VMahatma Gandhi
+p1034
+tp1035
+a(VWords are, of course, the most powerful drug used by mankind.
+p1036
+VRudyard Kipling
+p1037
+tp1038
+a(VMusic was my refuge. I could crawl into the space between the notes and curl my back to loneliness.
+p1039
+VMaya Angelou
+p1040
+tp1041
+a(VOnly in the darkness can you see the stars.
+p1042
+VMartin Luther King Jr.
+p1043
+tp1044
+a(VI was never really insane except upon occasions when my heart was touched.
+p1045
+VEdgar Allan Poe
+p1046
+tp1047
+a(VThe truth does not change according to our ability to stomach it.
+p1048
+VFlannery O'Connor
+p1049
+tp1050
+a(VI love you more than there are stars in the sky and fish in the sea.
+p1051
+VNicholas Sparks
+p1052
+tp1053
+a(VLife has no meaning. Each of us has meaning and we bring it to life. It is a waste to be asking the question when you are the answer.
+p1054
+VJoseph Campbell
+p1055
+tp1056
+a(VWar is what happens when language fails.
+p1057
+VMargaret Atwood
+p1058
+tp1059
+a(VIf you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.
+p1060
+VKahlil Gibran
+p1061
+tp1062
+a(VIt is better to fail in originality than to succeed in imitation.
+p1063
+VHerman Melville
+p1064
+tp1065
+a(VStop acting so small. You are the universe in ecstatic motion.
+p1066
+VJalaluddin Rumi
+p1067
+tp1068
+a(VA woman's heart should be so hidden in God that a man has to seek Him just to find her.
+p1069
+VMax Lucado
+p1070
+tp1071
+a(VIt's kind of fun to do the impossible.
+p1072
+VWalt Disney Company
+p1073
+tp1074
+a(VA lie gets halfway around the world before the truth has a chance to get its pants on.
+p1075
+VWinston S. Churchill
+p1076
+tp1077
+a(VDon't tell me the moon is shining; show me the glint of light on broken glass.
+p1078
+VAnton Chekhov
+p1079
+tp1080
+a(VWeeds are flowers, too, once you get to know them.
+p1081
+VA.A. Milne
+p1082
+tp1083
+a(VLove does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.
+p1084
+VJames     Baldwin
+p1085
+tp1086
+a(VWhen I was a little girl I used to read fairy tales. In fairy tales you meet Prince Charming and he's everything you ever wanted. In fairy tales the bad guy is very easy to spot. The bad guy is always wearing a black cape so you always know who he is. Then you grow up and you realize that Prince Charming is not as easy to find as you thought. You realize the bad guy is not wearing a black cape and he's not easy to spot; he's really funny, and he makes you laugh, and he has perfect hair.
+p1087
+VTaylor Swift
+p1088
+tp1089
+a(VIf I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.
+p1090
+VAlbert Einstein
+p1091
+tp1092
+a(VYou know, one of the tragedies of real life is that there is no background music.
+p1093
+VAnnie Proulx
+p1094
+tp1095
+a(VThink left and think right and think low and think high. Oh, the thinks you can think up if only you try!
+p1096
+VDr. Seuss
+p1097
+tp1098
+a(VI have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!
+p1099
+VDr. Seuss
+p1100
+tp1101
+a(VUnbeing dead isn't being alive.
+p1102
+VE.E. Cummings
+p1103
+tp1104
+a(VBooks. Cats. Life is Good.
+p1105
+VEdward Gorey
+p1106
+tp1107
+a(VWe are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.
+p1108
+VC.S. Lewis
+p1109
+tp1110
+a(VYou believe lies so you eventually learn to trust no one but yourself.
+p1111
+VMarilyn Monroe
+p1112
+tp1113
+a(VI do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it.
+p1114
+VMark Twain
+p1115
+tp1116
+a(VThe world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.
+p1117
+VAlbert Einstein
+p1118
+tp1119
+a(VNo person is your friend who demands your silence, or denies your right to grow.
+p1120
+VAlice Walker
+p1121
+tp1122
+a(VPeople think dreams aren't real just because they aren't made of matter, of particles. Dreams are real. But they are made of viewpoints, of images, of memories and puns and lost hopes.
+p1123
+VNeil Gaiman
+p1124
+tp1125
+a(VLet us be grateful to the people who make us happy; they are the charming gardeners who make our souls blossom.
+p1126
+VMarcel Proust
+p1127
+tp1128
+a(VArt is the lie that enables us to realize the truth.
+p1129
+VPablo Picasso
+p1130
+tp1131
+a(VA painter should begin every canvas with a wash of black, because all things in nature are dark except where exposed by the light.
+p1132
+VLeonardo da Vinci
+p1133
+tp1134
+a(VThe problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence.
+p1135
+VCharles Bukowski
+p1136
+tp1137
+a(VGod will not look you over for medals, degrees or diplomas but for scars.
+p1138
+VElbert Hubbard
+p1139
+tp1140
+a(VWhat you seek is seeking you.
+p1141
+VJalaluddin Rumi
+p1142
+tp1143
+a(VBook collecting is an obsession, an occupation, a disease, an addiction, a fascination, an absurdity, a fate. It is not a hobby. Those who do it must do it.
+p1144
+VJeanette Winterson
+p1145
+tp1146
+a(VSome cause happiness wherever they go; others whenever they go.
+p1147
+VOscar Wilde
+p1148
+tp1149
+a(VLove is an irresistible desire to be irresistibly desired.
+p1150
+VRobert Frost
+p1151
+tp1152
+a(VIf you obey all of the rules, you miss all of the fun.
+p1153
+VKatharine Hepburn
+p1154
+tp1155
+a(VThere is no surer foundation for a beautiful friendship than a mutual taste in literature.
+p1156
+VP.G. Wodehouse
+p1157
+tp1158
+a(VLife is to be enjoyed, not endured
+p1159
+VGordon B. Hinckley
+p1160
+tp1161
+a(VBooks are for people who wish they were somewhere else.
+p1162
+VMark Twain
+p1163
+tp1164
+a(VWriting is a socially acceptable form of schizophrenia.
+p1165
+VE.L. Doctorow
+p1166
+tp1167
+a(VWithout deviation from the norm, progress is not possible.
+p1168
+VFrank Zappa
+p1169
+tp1170
+a(VIt's not the load that breaks you down, it's the way you carry it.
+p1171
+VLou Holtz
+p1172
+tp1173
+a(VI did then what I knew how to do. Now that I know better, I do better.
+p1174
+VMaya Angelou
+p1175
+tp1176
+a(VI know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.
+p1177
+VAlbert Einstein
+p1178
+tp1179
+a(VThe more I see, the less I know for sure.
+p1180
+VJohn Lennon
+p1181
+tp1182
+a(VThe things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy.
+p1183
+VKalu Ndukwe Kalu
+p1184
+tp1185
+a(VIf you go home with somebody, and they don't have books, don't fuck 'em!
+p1186
+VJohn Waters
+p1187
+tp1188
+a(VWe know what we are, but not what we may be.
+p1189
+VWilliam Shakespeare
+p1190
+tp1191
+a(VFollow your inner moonlight; don't hide the madness.
+p1192
+VAllen Ginsberg
+p1193
+tp1194
+a(VThe journey of a thousand miles begins with a single step.
+p1195
+VLao Tzu
+p1196
+tp1197
+a(VThere may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.
+p1198
+VElie Wiesel
+p1199
+tp1200
+a(VI love you also means I love you more than anyone loves you, or has loved you, or will love you, and also, I love you in a way that no one loves you, or has loved you, or will love you, and also, I love you in a way that I love no one else, and never have loved anyone else, and never will love anyone else.
+p1201
+VJonathan Safran Foer
+p1202
+tp1203
+a(VWhat would men be without women? Scarce, sir...mighty scarce.
+p1204
+VMark Twain
+p1205
+tp1206
+a(VUsually I'm remarkably good natured. Try me on a day that doesn't end in y.
+p1207
+VCassandra Clare
+p1208
+tp1209
+a(VThe reason it hurts so much to separate is because our souls are connected.
+p1210
+VNicholas Sparks
+p1211
+tp1212
+a(VWe all have our time machines, don't we. Those that take us back are memories...And those that carry us forward, are dreams.
+p1213
+VH.G. Wells
+p1214
+tp1215
+a(VThe most wasted of all days is one without laughter.
+p1216
+VNicolas Chamfort
+p1217
+tp1218
+a(VWith freedom, books, flowers, and the moon, who could not be happy?
+p1219
+VOscar Wilde
+p1220
+tp1221
+a(VI don't believe in the kind of magic in my books. But I do believe something very magical can happen when you read a good book.
+p1222
+VJ.K. Rowling
+p1223
+tp1224
+a(VThe best way to find out if you can trust somebody is to trust them.
+p1225
+VErnest Hemingway
+p1226
+tp1227
+a(VWhen the power of love overcomes the love of power, the world will know peace.
+p1228
+VJimi Hendrix
+p1229
+tp1230
+a(VSometimes people don't want to hear the truth because they don't want their illusions destroyed.
+p1231
+VFriedrich Nietzsche
+p1232
+tp1233
+a(VYou never fail until you stop trying.
+p1234
+VAlbert Einstein
+p1235
+tp1236
+a(VSuccess is liking yourself, liking what you do, and liking how you do it.
+p1237
+VMaya Angelou
+p1238
+tp1239
+a(VIf I can stop one heart from breaking, I shall not live in vain.
+p1240
+VEmily Dickinson
+p1241
+tp1242
+a(VThree things in human life are important: the first is to be kind; the second is to be kind; and the third is to be kind.
+p1243
+VHenry James
+p1244
+tp1245
+a(VIn heaven, all the interesting people are missing.
+p1246
+VFriedrich Nietzsche
+p1247
+tp1248
+a(VDon't say you don't have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michaelangelo, Mother Teresa, Leonardo da Vinci, Thomas Jefferson, and Albert Einstein.
+p1249
+VH. Jackson Brown Jr.
+p1250
+tp1251
+a(VDo I not destroy my enemies when I make them my friends?
+p1252
+VAbraham Lincoln
+p1253
+tp1254
+a(VTrust yourself. You know more than you think you do.
+p1255
+VBenjamin Spock
+p1256
+tp1257
+a(VIt is good to love many things, for therein lies the true strength, and whosoever loves much performs much, and can accomplish much, and what is done in love is well done.
+p1258
+VVincent Van Gogh
+p1259
+tp1260
+a(VSometimes it seems safer to hold it all in, where the only person who can judge is yourself.
+p1261
+VSarah Dessen
+p1262
+tp1263
+a(VAll we demanded was our right to twinkle.
+p1264
+VMarilyn Monroe
+p1265
+tp1266
+a(VGreat spirits have always encountered violent opposition from mediocre minds.
+p1267
+VAlbert Einstein
+p1268
+tp1269
+a(VHate the sin, love the sinner.
+p1270
+VMahatma Gandhi
+p1271
+tp1272
+a(VYou are imperfect, permanently and inevitably flawed. And you are beautiful.
+p1273
+VAmy Bloom
+p1274
+tp1275
+a(VThe true soldier fights not because he hates what is in front of him, but because he loves what is behind him.
+p1276
+VG.K. Chesterton
+p1277
+tp1278
+a(VOne love, one heart, one destiny.
+p1279
+VBob Marley
+p1280
+tp1281
+a(VDo not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.
+p1282
+VBertrand Russell
+p1283
+tp1284
+a(VA book, too, can be a star, a living fire to lighten the darkness, leading out into the expanding universe.
+p1285
+VMadeleine L'Engle
+p1286
+tp1287
+a(VAfter nourishment, shelter and companionship, stories are the thing we need most in the world.
+p1288
+VPhilip Pullman
+p1289
+tp1290
+a(VLearn what is to be taken seriously and laugh at the rest.
+p1291
+VHermann Hesse
+p1292
+tp1293
+a(VDon't be afraid of your fears. They're not there to scare you. They're there to let you know that something is worth it.
+p1294
+VC. JoyBell C.
+p1295
+tp1296
+a(Vbut for my own part, if a book is well written, I always find it too short.
+p1297
+VJane Austen
+p1298
+tp1299
+a(VSanity and happiness are an impossible combination.
+p1300
+VMark Twain
+p1301
+tp1302
+a(VAn intellectual says a simple thing in a hard way. An artist says a hard thing in a simple way.
+p1303
+VCharles Bukowski
+p1304
+tp1305
+a(VIs 'fat' really the worst thing a human being can be? Is 'fat' worse than 'vindictive', 'jealous', 'shallow', 'vain', 'boring' or 'cruel'? Not to me.
+p1306
+VJ.K. Rowling
+p1307
+tp1308
+a(VMy mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style
+p1309
+VMaya Angelou
+p1310
+tp1311
+a(VI will not let anyone walk through my mind with their dirty feet.
+p1312
+VMahatma Gandhi
+p1313
+tp1314
+a(VOnce you have tasted flight, you will forever walk the earth with your eyes turned skyward, for there you have been, and there you will always long to return.
+p1315
+VLeonardo da Vinci
+p1316
+tp1317
+a(VAlways do sober what you said you'd do drunk. That will teach you to keep your mouth shut.
+p1318
+VErnest Hemingway
+p1319
+tp1320
+a(VIt happens to everyone as they grow up. You find out who you are and what you want, and then you realize that people you've known forever don't see things the way you do. So you keep the wonderful memories, but find yourself moving on.
+p1321
+VNicholas Sparks
+p1322
+tp1323
+a(VEducation is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.
+p1324
+VOscar Wilde
+p1325
+tp1326
+a(VI love you like a fat kid loves cake!
+p1327
+VScott Adams
+p1328
+tp1329
+a(VHistory will be kind to me for I intend to write it.
+p1330
+VWinston S. Churchill
+p1331
+tp1332
+a(VEveryone has talent. What's rare is the courage to follow it to the dark places where it leads.
+p1333
+VErica Jong
+p1334
+tp1335
+a(VTo me, Fearless is not the absense of fear. It's not being completely unafraid. To me, Fearless is having fears. Fearless is having doubts. Lots of them. To me, Fearless is living in spite of those things that scare you to death.
+p1336
+VTaylor Swift
+p1337
+tp1338
+a(VPerhaps when we find ourselves wanting everything, it is because we are dangerously close to wanting nothing.
+p1339
+VSylvia Plath
+p1340
+tp1341
+a(VI fell in love with her courage, her sincerity, and her flaming self respect. And it's these things I'd believe in, even if the whole world indulged in wild suspicions that she wasn't all she should be. I love her and it is the beginning of everything.
+p1342
+VF. Scott Fitzgerald
+p1343
+tp1344
+a(VHow vain it is to sit down to write when you have not stood up to live.
+p1345
+VHenry David Thoreau
+p1346
+tp1347
+a(VWhen a man is denied the right to live the life he believes in, he has no choice but to become an outlaw.
+p1348
+VNelson Mandela
+p1349
+tp1350
+a(VStories may well be lies, but they are good lies that say true things, and which can sometimes pay the rent.
+p1351
+VNeil Gaiman
+p1352
+tp1353
+a(VIt has been said, 'time heals all wounds.' I do not agree. The wounds remain. In time, the mind, protecting its sanity, covers them with scar tissue and the pain lessens. But it is never gone.
+p1354
+VRose Fitzgerald Kennedy
+p1355
+tp1356
+a(VForever is composed of nows.
+p1357
+VEmily Dickinson
+p1358
+tp1359
+a(VI am not sure that I exist, actually. I am all the writers that I have read, all the people that I have met, all the women that I have loved; all the cities I have visited.
+p1360
+VJorge Luis Borges
+p1361
+tp1362
+a(VGravitation is not responsible for people falling in love.
+p1363
+VAlbert Einstein
+p1364
+tp1365
+a(VLive to the point of tears.
+p1366
+VAlbert Camus
+p1367
+tp1368
+a(VIf a book about failures doesn't sell, is it a success?
+p1369
+VJerry Seinfeld
+p1370
+tp1371
+a(VFantasy is escapist, and that is its glory. If a soldier is imprisioned by the enemy, don't we consider it his duty to escape?. . .If we value the freedom of mind and soul, if we're partisans of liberty, then it's our plain duty to escape, and to take as many people with us as we can!
+p1372
+VJ.R.R. Tolkien
+p1373
+tp1374
+a(VWe waste time looking for the perfect lover, instead of creating the perfect love.
+p1375
+VTom Robbins
+p1376
+tp1377
+a(VJudge a man by his questions rather than by his answers.
+p1378
+VVoltaire
+p1379
+tp1380
+a(VPeople say that life is the thing, but I prefer reading.
+p1381
+VLogan Pearsall Smith
+p1382
+tp1383
+a(VA poem begins as a lump in the throat, a sense of wrong, a homesickness, a lovesickness.
+p1384
+VRobert Frost
+p1385
+tp1386
+a(VIf we wait for the moment when everything, absolutely everything is ready, we shall never begin.
+p1387
+VIvan Turgenev
+p1388
+tp1389
+a(VThey say when you are missing someone that they are probably feeling the same, but I don't think it's possible for you to miss me as much as I'm missing you right now
+p1390
+VEdna St. Vincent Millay
+p1391
+tp1392
+a(VNobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.
+p1393
+VRichard Feynman
+p1394
+tp1395
+a(VReading is escape, and the opposite of escape; it's a way to make contact with reality after a day of making things up, and it's a way of making contact with someone else's imagination after a day that's all too real.
+p1396
+VNora Ephron
+p1397
+tp1398
+a(VA book is really like a lover. It arranges itself in your life in a way that is beautiful.
+p1399
+VMaurice Sendak
+p1400
+tp1401
+a(VBe patient toward all that is unsolved in your heart and try to love the questions themselves, like locked rooms and like books that are now written in a very foreign tongue. Do not now seek the answers, which cannot be given you because you would not be able to live them. And the point is, to live everything. Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer.
+p1402
+VRainer Maria Rilke
+p1403
+tp1404
+a(VThere are far, far better things ahead than any we leave behind.
+p1405
+VC.S. Lewis
+p1406
+tp1407
+a(VIf you're losing your soul and you know it, then you've still got a soul left to lose
+p1408
+VCharles Bukowski
+p1409
+tp1410
+a(VRemember to always be yourself. Unless you suck.
+p1411
+VJoss Whedon
+p1412
+tp1413
+a(VIf you don't like someone's story, write your own.
+p1414
+VChinua Achebe
+p1415
+tp1416
+a(VWe have to allow ourselves to be loved by the people who really love us, the people who really matter. Too much of the time, we are blinded by our own pursuits of people to love us, people that don't even matter, while all that time we waste and the people who do love us have to stand on the sidewalk and watch us beg in the streets! It's time to put an end to this. It's time for us to let ourselves be loved.
+p1417
+VC. JoyBell C.
+p1418
+tp1419
+a(VBooks should go where they will be most appreciated, and not sit unread, gathering dust on a forgotten shelf, don't you agree?
+p1420
+VChristopher Paolini
+p1421
+tp1422
+a(VThere are no facts, only interpretations.
+p1423
+VFriedrich Nietzsche
+p1424
+tp1425
+a(VIf you have two friends in your lifetime, you're lucky. If you have one good friend, you're more than lucky.
+p1426
+VS.E. Hinton
+p1427
+tp1428
+a(VFighting for peace is like screwing for virginity.
+p1429
+VGeorge Carlin
+p1430
+tp1431
+a(VYou will do foolish things, but do them with enthusiasm.
+p1432
+VColette
+p1433
+tp1434
+a(VDespite my ghoulish reputation, I really have the heart of a small boy. I keep it in a jar on my desk.
+p1435
+VRobert Bloch
+p1436
+tp1437
+a(VMany people lose the small joys in the hope for the big happiness.
+p1438
+VPearl S. Buck
+p1439
+tp1440
+a(VNo woman really wants a man to carry her off; she only wants him to want to do it.
+p1441
+VElizabeth Peters
+p1442
+tp1443
+a(VIn politics, If you want anything said, ask a man. If you want anything done, ask a woman.
+p1444
+VMargaret Thatcher
+p1445
+tp1446
+a(VEveryone you will ever meet knows something you don't.
+p1447
+VBill Nye
+p1448
+tp1449
+a(VThe only way to get through life is to laugh your way through it. You either have to laugh or cry. I prefer to laugh. Crying gives me a headache.
+p1450
+VMarjorie Pay Hinckley
+p1451
+tp1452
+a(VThere is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.
+p1453
+VErnest Hemingway
+p1454
+tp1455
+a(VIt's often just enough to be with someone. I don't need to touch them. Not even talk. A feeling passes between you both. You're not alone.
+p1456
+VMarilyn Monroe
+p1457
+tp1458
+a(VThe pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+p1459
+VWilliam Arthur Ward
+p1460
+tp1461
+a(VI came from a real tough neighborhood. Once a guy pulled a knife on me. I knew he wasn't a professional, the knife had butter on it.
+p1462
+VRodney Dangerfield
+p1463
+tp1464
+a(VLove is not affectionate feeling, but a steady wish for the loved person's ultimate good as far as it can be obtained.
+p1465
+VC.S. Lewis
+p1466
+tp1467
+a(VStart writing, no matter what. The water does not flow until the faucet is turned on.
+p1468
+VLouis L'Amour
+p1469
+tp1470
+a(VWhy are women... so much more interesting to men than men are to women?
+p1471
+VVirginia Woolf
+p1472
+tp1473
+a(VLove is an untamed force. When we try to control it, it destroys us. When we try to imprison it, it enslaves us. When we try to understand it, it leaves us feeling lost and confused.
+p1474
+VPaulo Coelho
+p1475
+tp1476
+a(VNever close your lips to those whom you have already opened your heart.
+p1477
+VCharles Dickens
+p1478
+tp1479
+a(VEvery generation imagines itself to be more intelligent than the one that went before it, and wiser than the one that comes after it.
+p1480
+VGeorge Orwell
+p1481
+tp1482
+a(VDance, when you're broken open. Dance, if you've torn the bandage off. Dance in the middle of the fighting. Dance in your blood. Dance when you're perfectly free.
+p1483
+VJalaluddin Rumi
+p1484
+tp1485
+a(VI knew when I met you an adventure was going to happen.
+p1486
+VA.A. Milne
+p1487
+tp1488
+a(VA cynic is a man who knows the price of everything, and the value of nothing.
+p1489
+VOscar Wilde
+p1490
+tp1491
+a(VClothes make the man. Naked people have little or no influence on society.
+p1492
+VMark Twain
+p1493
+tp1494
+a(VDon't part with your illusions. When they are gone you may still exist, but you have ceased to live.
+p1495
+VMark Twain
+p1496
+tp1497
+a(VThe world breaks everyone, and afterward, many are strong at the broken places.
+p1498
+VErnest Hemingway
+p1499
+tp1500
+a(VI've got nothing to do today but smile.
+p1501
+VPaul Simon
+p1502
+tp1503
+a(VFind what you love and let it kill you.
+p1504
+VCharles Bukowski
+p1505
+tp1506
+a(VIn ancient times cats were worshipped as gods; they have not forgotten this.
+p1507
+VTerry Pratchett
+p1508
+tp1509
+a(VToday a reader, tomorrow a leader.
+p1510
+VMargaret Fuller
+p1511
+tp1512
+a(VIf you are irritated by every rub, how will your mirror be polished?
+p1513
+VJalaluddin Rumi
+p1514
+tp1515
+a(VDogs never bite me. Just humans.
+p1516
+VMarilyn Monroe
+p1517
+tp1518
+a(VSuccess is getting what you want, happiness is wanting what you get
+p1519
+VW.P. Kinsella
+p1520
+tp1521
+a(VI can shake off everything as I write; my sorrows disappear, my courage is reborn.
+p1522
+VAnne Frank
+p1523
+tp1524
+a(VDon't wait for a light to appear at the end of the tunnel, stride down there and light the bloody thing yourself.
+p1525
+VSara Henderson
+p1526
+tp1527
+a(VHave you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?
+p1528
+VGeorge Carlin
+p1529
+tp1530
+a(VLive in the sunshine, swim the sea, drink the wild air.
+p1531
+VRalph Waldo Emerson
+p1532
+tp1533
+a(VThe man of knowledge must be able not only to love his enemies but also to hate his friends.
+p1534
+VFriedrich Nietzsche
+p1535
+tp1536
+a(VHow did it get so late so soon?
+p1537
+VDr. Seuss
+p1538
+tp1539
+a(VSometimes,' said Pooh, 'the smallest things take up the most room in your heart.
+p1540
+VA.A. Milne
+p1541
+tp1542
+a(VThere are three rules for writing a novel. Unfortunately, no one knows what they are.
+p1543
+VW. Somerset Maugham
+p1544
+tp1545
+a(VWe are cups, constantly and quietly being filled. The trick is, knowing how to tip ourselves over and let the beautiful stuff out.
+p1546
+VRay Bradbury
+p1547
+tp1548
+a(VI would like to be the air that inhabits you for a moment only. I would like to be that unnoticed and that necessary.
+p1549
+VMargaret Atwood
+p1550
+tp1551
+a(VThe one thing we can never get enough of is love. And the one thing we never give enough of is love.
+p1552
+VHenry Miller
+p1553
+tp1554
+a(VWe should consider every day lost on which we have not danced at least once.
+p1555
+VFriedrich Nietzsche
+p1556
+tp1557
+a(VI wanted a perfect ending. Now I've learned, the hard way, that some poems don't rhyme, and some stories don't have a clear beginning, middle, and end.
+p1558
+VGilda Radner
+p1559
+tp1560
+a(VYou can't measure the mutual affection of two human beings by the number of words they exchange.
+p1561
+VMilan Kundera
+p1562
+tp1563
+a(VSometimes it's a form of love just to talk to somebody that you have nothing in common with and still be fascinated by their presence.
+p1564
+VDavid Byrne
+p1565
+tp1566
+a(VThat it will never come again is what makes life so sweet.
+p1567
+VEmily Dickinson
+p1568
+tp1569
+a(VThe first draft of anything is shit.
+p1570
+VErnest Hemingway
+p1571
+tp1572
+a(VYou're alive only once, as far as we know, and what could be worse than getting to the end of your life and realizing you hadn't lived it?
+p1573
+VEdward Albee
+p1574
+tp1575
+a(VIt is a great thing to start life with a small number of really good books which are your very own.
+p1576
+VArthur Conan Doyle
+p1577
+tp1578
+a(VYou were born with wings, why prefer to crawl through life?
+p1579
+VJalaluddin Rumi
+p1580
+tp1581
+a(VIf I'd observed all the rules I'd never have got anywhere.
+p1582
+VMarilyn Monroe
+p1583
+tp1584
+a(VSometimes when I'm talking, my words can't keep up with my thoughts. I wonder why we think faster than we speak. Probably so we can think twice.
+p1585
+VBill Watterson
+p1586
+tp1587
+a(VIn life, unlike chess, the game continues after checkmate.
+p1588
+VIsaac Asimov
+p1589
+tp1590
+a(VLife is a shipwreck, but we must not forget to sing in the lifeboats.
+p1591
+VVoltaire
+p1592
+tp1593
+a(VThough nobody can go back and make a new beginning... Anyone can start over and make a new ending.
+p1594
+VChico Xavier
+p1595
+tp1596
+a(VEvery man I meet wants to protect me. I can't figure out what from.
+p1597
+VMae West
+p1598
+tp1599
+a(VHave enough courage to trust love one more time and always one more time.
+p1600
+VMaya Angelou
+p1601
+tp1602
+a(VIf you want to tell people the truth, make them laugh, otherwise they'll kill you.
+p1603
+VGeorge Bernard Shaw
+p1604
+tp1605
+a(VAny fool knows men and women think differently at times, but the biggest difference is this. Men forget, but never forgive; women forgive, but never forget.
+p1606
+VRobert Jordan
+p1607
+tp1608
+a(VWhat you do speaks so loudly that I cannot hear what you say.
+p1609
+VRalph Waldo Emerson
+p1610
+tp1611
+a(VI dream my painting and I paint my dream.
+p1612
+VVincent Van Gogh
+p1613
+tp1614
+a(VWe are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special.
+p1615
+VStephen Hawking
+p1616
+tp1617
+a(VPeople can lose their lives in libraries. They ought to be warned.
+p1618
+VSaul Bellow
+p1619
+tp1620
+a(VThe most common way people give up their power is by thinking they don't have any.
+p1621
+VAlice Walker
+p1622
+tp1623
+a(VIf you want to be a writer, you must do two things above all others: read a lot and write a lot.
+p1624
+VStephen King
+p1625
+tp1626
+a(VI cannot sleep unless I am surrounded by books.
+p1627
+VJorge Luis Borges
+p1628
+tp1629
+a(VAll the secrets of the world are contained in books. Read at your own risk.
+p1630
+VLemony Snicket
+p1631
+tp1632
+a(VReading furnishes the mind only with materials of knowledge; it is thinking that makes what we read ours.
+p1633
+VJohn Locke
+p1634
+tp1635
+a(VYou think your pain and your heartbreak are unprecedented in the history of the world, but then you read.
+p1636
+VJames     Baldwin
+p1637
+tp1638
+a(VAll you have to do is write one true sentence. Write the truest sentence that you know.
+p1639
+VErnest Hemingway
+p1640
+tp1641
+a(VNever give up...No one knows what's going to happen next.
+p1642
+VL. Frank Baum
+p1643
+tp1644
+a(VWhatever the cost of our libraries, the price is cheap compared to that of an ignorant nation.
+p1645
+VWalter Cronkite
+p1646
+tp1647
+a(VA ship is safe in harbor, but that's not what ships are for.
+p1648
+VWilliam G.T. Shedd
+p1649
+tp1650
+a(VFrom the moment I picked up your book until I put it down, I was convulsed with laughter. Some day I intend reading it.
+p1651
+VGroucho Marx
+p1652
+tp1653
+a(VThe individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.
+p1654
+VFriedrich Nietzsche
+p1655
+tp1656
+a(VSuccess makes so many people hate you. I wish it wasn't that way. It would be wonderful to enjoy success without seeing envy in the eyes of those around you.
+p1657
+VMarilyn Monroe
+p1658
+tp1659
+a(VBooks are the carriers of civilization...They are companions, teachers, magicians, bankers of the treasures of the mind. Books are humanity in print.
+p1660
+VBarbara W. Tuchman
+p1661
+tp1662
+a(VIf things start happening, don't worry, don't stew, just go right along and you'll start happening too.
+p1663
+VDr. Seuss
+p1664
+tp1665
+a(VYesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.
+p1666
+VJalaluddin Rumi
+p1667
+tp1668
+a(VToday was good. Today was fun. Tomorrow is another one.
+p1669
+VDr. Seuss
+p1670
+tp1671
+a(VKeep smiling, because life is a beautiful thing and there's so much to smile about.
+p1672
+VMarilyn Monroe
+p1673
+tp1674
+a(VNo matter how much suffering you went through, you never wanted to let go of those memories.
+p1675
+VHaruki Murakami
+p1676
+tp1677
+a(VI don't know that love changes. People change. Circumstances change.
+p1678
+VNicholas Sparks
+p1679
+tp1680
+a(VSo please, oh please, we beg, we pray, go throw your TV set away, and in its place you can install, a lovely bookshelf on the wall.
+p1681
+VRoald Dahl
+p1682
+tp1683
+a(VI'm tough, I'm ambitious, and I know exactly what I want. If that makes me a bitch, okay.
+p1684
+VMadonna
+p1685
+tp1686
+a(VNever say 'no' to adventures. Always say 'yes,' otherwise you'll lead a very dull life.
+p1687
+VIan Fleming
+p1688
+tp1689
+a(VIf you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.
+p1690
+VMark Twain
+p1691
+tp1692
+a(VSilence make the real conversations between friends. Not the saying, but the never needing to say that counts.
+p1693
+VMargaret Lee Runbeck
+p1694
+tp1695
+a(VIt is not that I'm so smart. But I stay with the questions much longer.
+p1696
+VAlbert Einstein
+p1697
+tp1698
+a(VWorry never robs tomorrow of its sorrow, but only saps today of its strength.
+p1699
+VA.J. Cronin
+p1700
+tp1701
+a(VAmerica will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves.
+p1702
+VAbraham Lincoln
+p1703
+tp1704
+a(VNever be afraid to trust an unknown future to a known God.
+p1705
+VCorrie ten Boom
+p1706
+tp1707
+a(VWhat you do makes a difference, and you have to decide what kind of difference you want to make.
+p1708
+VJane Goodall
+p1709
+tp1710
+a(VMoney can't buy happiness, but it can make you awfully comfortable while you're being miserable.
+p1711
+VClare Boothe Luce
+p1712
+tp1713
+a(VWe take for granted the very things that most deserve our gratitude.
+p1714
+VCynthia Ozick
+p1715
+tp1716
+a(VOnce you had put the pieces back together, even though you may look intact, you were never quite the same as you'd been before the fall.
+p1717
+VJodi Picoult
+p1718
+tp1719
+a(VBe clearly aware of the stars and infinity on high. Then life seems almost enchanted after all.
+p1720
+VVincent Van Gogh
+p1721
+tp1722
+a(VPromise me you'll never forget me because if I thought you would, I'd never leave.
+p1723
+VA.A. Milne
+p1724
+tp1725
+a(VDo you want to know who you are? Don't ask. Act! Action will delineate and define you.
+p1726
+VThomas Jefferson
+p1727
+tp1728
+a(VThat's why they call it the American Dream, because you have to be asleep to believe it.
+p1729
+VGeorge Carlin
+p1730
+tp1731
+a(VA dream you dream alone is only a dream. A dream you dream together is reality.
+p1732
+VJohn Lennon
+p1733
+tp1734
+a(VMy imagination functions much better when I don't have to speak to people.
+p1735
+VPatricia Highsmith
+p1736
+tp1737
+a(VKnowledge speaks, but wisdom listens
+p1738
+VJimi Hendrix
+p1739
+tp1740
+a(VWhen it is dark enough, you can see the stars.
+p1741
+VRalph Waldo Emerson
+p1742
+tp1743
+a(VFailure is the condiment that gives success its flavor.
+p1744
+VTruman Capote
+p1745
+tp1746
+a(VConfront the dark parts of yourself, and work to banish them with illumination and forgiveness. Your willingness to wrestle with your demons will cause your angels to sing.
+p1747
+VAugust Wilson
+p1748
+tp1749
+a(VAnyone who falls in love is searching for the missing pieces of themselves. So anyone who's in love gets sad when they think of their lover. It's like stepping back inside a room you have fond memories of, one you haven't seen in a long time.
+p1750
+VHaruki Murakami
+p1751
+tp1752
+a(VWhen you do things from your soul, you feel a river moving in you, a joy.
+p1753
+VJalaluddin Rumi
+p1754
+tp1755
+a(VThe thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself.
+p1756
+VAnna Quindlen
+p1757
+tp1758
+a(VEvery time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.
+p1759
+VMother Teresa
+p1760
+tp1761
+a(VThere is greatness in doing something you hate for the sake of someone you love.
+p1762
+VShmuley Boteach
+p1763
+tp1764
+a(VReal loneliness is not necessarily limited to when you are alone.
+p1765
+VCharles Bukowski
+p1766
+tp1767
+a(VEverybody talks about wanting to change things and help and fix, but ultimately all you can do is fix yourself. And that's a lot. Because if you can fix yourself, it has a ripple effect.
+p1768
+VRob Reiner
+p1769
+tp1770
+a(VI'm sure the universe is full of intelligent life. It's just been too intelligent to come here.
+p1771
+VArthur C. Clarke
+p1772
+tp1773
+a(VI want to grow old without facelifts. I want to have the courage to be loyal to the face I have made.
+p1774
+VMarilyn Monroe
+p1775
+tp1776
+a(VYou will find that it is necessary to let things go; simply for the reason that they are heavy. So let them go, let go of them. I tie no weights to my ankles.
+p1777
+VC. JoyBell C.
+p1778
+tp1779
+a(VThe measure of intelligence is the ability to change.
+p1780
+VAlbert Einstein
+p1781
+tp1782
+a(VAnd he took her in his arms and kissed her under the sunlit sky, and he cared not that they stood high upon the walls in the sight of many.
+p1783
+VJ.R.R. Tolkien
+p1784
+tp1785
+a(VA woman without a man is like a fish without a bicycle.
+p1786
+VIrina Dunn
+p1787
+tp1788
+a(VMy Best Friend is a person who will give me a book I have not read.
+p1789
+VAbraham Lincoln
+p1790
+tp1791
+a(VWherever you go becomes a part of you somehow.
+p1792
+VAnita Desai
+p1793
+tp1794
+a(VI was wise enough never to grow up, while fooling people into believing I had.
+p1795
+VMargaret Mead
+p1796
+tp1797
+a(VIf you treat an individual as he is, he will remain how he is. But if you treat him as if he were what he ought to be and could be, he will become what he ought to be and could be.
+p1798
+VJohann Wolfgang von Goethe
+p1799
+tp1800
+a(VI cannot remember the books I've read any more than the meals I have eaten; even so, they have made me.
+p1801
+VRalph Waldo Emerson
+p1802
+tp1803
+a(VAn expert is a person who has made all the mistakes that can be made in a very narrow field.
+p1804
+VNiels Bohr
+p1805
+tp1806
+a(VI am different, not less.
+p1807
+VTemple Grandin
+p1808
+tp1809
+a(VIf you do not tell the truth about yourself you cannot tell it about other people.
+p1810
+VVirginia Woolf
+p1811
+tp1812
+a(VA book must be the axe for the frozen sea within us.
+p1813
+VFranz Kafka
+p1814
+tp1815
+a(VBeauty is only skin deep, but ugly goes clean to the bone.
+p1816
+VDorothy Parker
+p1817
+tp1818
+a(VAlways do what is right. It will gratify half of mankind and astound the other.
+p1819
+VMark Twain
+p1820
+tp1821
+a(VThe creative adult is the child who has survived.
+p1822
+VUrsula K. Le Guin
+p1823
+tp1824
+a(VThere is more to sex appeal than just measurements. I don't need a bedroom to prove my womanliness. I can convey just as much sex appeal, picking apples off a tree or standing in the rain.
+p1825
+VAudrey Hepburn
+p1826
+tp1827
+a(VTrust is like a mirror, you can fix it if it's broken, but you can still see the crack in that mother fucker's reflection.
+p1828
+VLady Gaga
+p1829
+tp1830
+a(VI've been homesick for countries I've never been, and longed to be where I couldn't be.
+p1831
+VJohn Cheever
+p1832
+tp1833
+a(VI am a cage, in search of a bird.
+p1834
+VFranz Kafka
+p1835
+tp1836
+a(VWe can never judge the lives of others, because each person knows only their own pain and renunciation. It's one thing to feel that you are on the right path, but it's another to think that yours is the only path.
+p1837
+VPaulo Coelho
+p1838
+tp1839
+a(VI think the reward for conformity is that everyone likes you except yourself.
+p1840
+VRita Mae Brown
+p1841
+tp1842
+a(VThe important thing to you is not how many years in your life, but how much life in your years!
+p1843
+VEdward J. Stieglitz
+p1844
+tp1845
+a(VAnd thus the heart will break, yet brokenly live on.
+p1846
+VGeorge Gordon Byron
+p1847
+tp1848
+a(VOur mothers always remain the strangest, craziest people we've ever met.
+p1849
+VMarguerite Duras
+p1850
+tp1851
+a(VBecause you can't argue with all the fools in the world. It's easier to let them have their way, then trick them when they're not paying attention.
+p1852
+VChristopher Paolini
+p1853
+tp1854
+a(VYou yourself, as much as anybody in the entire universe, deserve your love and affection
+p1855
+VSharon Salzberg
+p1856
+tp1857
+a(VMay the forces of evil become confused on the way to your house.
+p1858
+VGeorge Carlin
+p1859
+tp1860
+a(VWhat is that you express in your eyes? It seems to me more than all the print I have read in my life.
+p1861
+VWalt Whitman
+p1862
+tp1863
+a(VThe worst part of success is trying to find someone who is happy for you.
+p1864
+VBette Midler
+p1865
+tp1866
+a(VAh! There is nothing like staying at home, for real comfort.
+p1867
+VJane Austen
+p1868
+tp1869
+a(VTry a little harder to be a little better.
+p1870
+VGordon B. Hinckley
+p1871
+tp1872
+a(VWe can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.
+p1873
+VPlato
+p1874
+tp1875
+a(VLove is the absence of judgment.
+p1876
+VDalai Lama XIV
+p1877
+tp1878
+a(VWhat's the good of living if you don't try a few things?
+p1879
+VCharles M. Schulz
+p1880
+tp1881
+a(VThe past has no power over the present moment.
+p1882
+VEckhart Tolle
+p1883
+tp1884
+a(VCreativity is intelligence having fun.
+p1885
+VAlbert Einstein
+p1886
+tp1887
+a(VWe must be willing to let go of the life we planned so as to have the life that is waiting for us.
+p1888
+VJoseph Campbell
+p1889
+tp1890
+a(VIf conversation was the lyrics, laughter was the music, making time spent together a melody that could be replayed over and over without getting stale.
+p1891
+VNicholas Sparks
+p1892
+tp1893
+a(VTime is the coin of your life. You spend it. Do not allow others to spend it for you.
+p1894
+VCarl Sandburg
+p1895
+tp1896
+a(VThe pleasure of all reading is doubled when one lives with another who shares the same books.
+p1897
+VKatherine Mansfield
+p1898
+tp1899
+a(VIt is forbidden to kill; therefore all murderers are punished unless they kill in large numbers and to the sound of trumpets.
+p1900
+VVoltaire
+p1901
+tp1902
+a(VIllegal aliens have always been a problem in the United States. Ask any Indian.
+p1903
+VRobert Orben
+p1904
+tp1905
+a(VEvery time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.
+p1906
+VDeepak Chopra
+p1907
+tp1908
+a(VA child can teach an adult three things: to be happy for no reason, to always be busy with something, and to know how to demand with all his might that which he desires.
+p1909
+VPaulo Coelho
+p1910
+tp1911
+a(VGod can't give us peace and happiness apart from Himself because there is no such thing.
+p1912
+VC.S. Lewis
+p1913
+tp1914
+a(VThe trouble is not in dying for a friend, but in finding a friend worth dying for.
+p1915
+VMark Twain
+p1916
+tp1917
+a(VThere is a sacredness in tears....They are the messengers of overwhelming grief, of deep contrition and of unspeakable love.
+p1918
+VWashington Irving
+p1919
+tp1920
+a(VThere's things that happen in a person's life that are so scorched in the memory and burned into the heart that there's no forgetting them.
+p1921
+VJohn Boyne
+p1922
+tp1923
+a(VYou shall know the truth and the truth shall make you mad.
+p1924
+VAldous Huxley
+p1925
+tp1926
+a(VTrying to define yourself is like trying to bite your own teeth.
+p1927
+VAlan W. Watts
+p1928
+tp1929
+a(VNo book can be appreciated until it has been slept with and dreamed over.
+p1930
+VEugene Field
+p1931
+tp1932
+a(VWhen I was about eight, I decided that the most wonderful thing, next to a human being, was a book.
+p1933
+VMargaret Walker
+p1934
+tp1935
+a(VI cannot believe in a God who wants to be praised all the time.
+p1936
+VFriedrich Nietzsche
+p1937
+tp1938
+a(VThe world is a dangerous place to live, not because of the people who are evil, but because of the people who don't do anything about it.
+p1939
+VAlbert Einstein
+p1940
+tp1941
+a(VI wrote the story myself. It's about a girl who lost her reputation and never missed it.
+p1942
+VMae West
+p1943
+tp1944
+a(VWheresoever you go, go with all your heart.
+p1945
+VConfucius
+p1946
+tp1947
+a(VThere was another life that I might have had, but I am having this one.
+p1948
+VKazuo Ishiguro
+p1949
+tp1950
+a(VWhen you laugh, laugh like hell. And when you get angry, get good and angry. Try to be alive. You will be dead soon enough.
+p1951
+VWilliam Saroyan
+p1952
+tp1953
+a(VEverything has beauty, but not everyone sees it.
+p1954
+VConfucius
+p1955
+tp1956
+a(VDo your little bit of good where you are; it's those little bits of good put together that overwhelm the world.
+p1957
+VDesmond Tutu
+p1958
+tp1959
+a(VQuotation is a serviceable substitute for wit.
+p1960
+VOscar Wilde
+p1961
+tp1962
+a(VHe who has a why to live for can bear almost any how.
+p1963
+VFriedrich Nietzsche
+p1964
+tp1965
+a(VIn a time of destruction, create something.
+p1966
+VMaxine Hong Kingston
+p1967
+tp1968
+a(VIt is easier to forgive an enemy than to forgive a friend.
+p1969
+VWilliam Blake
+p1970
+tp1971
+a(VAtheism turns out to be too simple. If the whole universe has no meaning, we should never have found out that it has no meaning...
+p1972
+VC.S. Lewis
+p1973
+tp1974
+a(VWhatever you're meant to do, do it now. The conditions are always impossible.
+p1975
+VDoris Lessing
+p1976
+tp1977
+a(VOut of suffering have emerged the strongest souls; the most massive characters are seared with scars.
+p1978
+VKahlil Gibran
+p1979
+tp1980
+a(VPain insists upon being attended to. God whispers to us in our pleasures, speaks in our consciences, but shouts in our pains. It is his megaphone to rouse a deaf world.
+p1981
+VC.S. Lewis
+p1982
+tp1983
+a(VA word to the wise ain't necessary, it's the stupid ones who need advice.
+p1984
+VBill Cosby
+p1985
+tp1986
+a(VOne of the advantages of being disorganized is that one is always having surprising discoveries.
+p1987
+VA.A. Milne
+p1988
+tp1989
+a(VThe purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.
+p1990
+VRalph Waldo Emerson
+p1991
+tp1992
+a(VYesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.
+p1993
+VMother Teresa
+p1994
+tp1995
+a(VI have absolutely no pleasure in the stimulants in which I sometimes so madly indulge. It has not been in the pursuit of pleasure that I have periled life and reputation and reason. It has been the desperate attempt to escape from torturing memories, from a sense of insupportable loneliness and a dread of some strange impending doom.
+p1996
+VEdgar Allan Poe
+p1997
+tp1998
+a(VLetting go means to come to the realization that some people are a part of your history, but not a part of your destiny.
+p1999
+VSteve Maraboli
+p2000
+tp2001
+a(VFill your paper with the breathings of your heart.
+p2002
+VWilliam Wordsworth
+p2003
+tp2004
+a(VI haven't been everywhere, but it's on my list.
+p2005
+VSusan Sontag
+p2006
+tp2007
+a(VA good traveler has no fixed plans and is not intent on arriving.
+p2008
+VLao Tzu
+p2009
+tp2010
+a(VLearn to value yourself, which means: fight for your happiness.
+p2011
+VAyn Rand
+p2012
+tp2013
+a(VA house without books is like a room without windows.
+p2014
+VHorace Mann
+p2015
+tp2016
+a(VIt is a good rule after reading a new book, never to allow yourself another new one till you have read an old one in between.
+p2017
+VC.S. Lewis
+p2018
+tp2019
+a(VMost books on witchcraft will tell you that witches work naked. This is because most books on witchcraft were written by men.
+p2020
+VNeil Gaiman
+p2021
+tp2022
+a(VPeople change and forget to tell each other.
+p2023
+VLillian Hellman
+p2024
+tp2025
+a(VThe world is indeed comic, but the joke is on mankind.
+p2026
+VH.P. Lovecraft
+p2027
+tp2028
+a(VCompassion is the basis of morality.
+p2029
+VArthur Schopenhauer
+p2030
+tp2031
+a(VLet our scars fall in love.
+p2032
+VGalway Kinnell
+p2033
+tp2034
+a(VTact is the ability to tell someone to go to hell in such a way that they look forward to the trip.
+p2035
+VWinston S. Churchill
+p2036
+tp2037
+a(VExpose yourself to your deepest fear; after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free.
+p2038
+VJim Morrison
+p2039
+tp2040
+a(VAdults are just obsolete children and the hell with them.
+p2041
+VDr. Seuss
+p2042
+tp2043
+a(VSuccess is stumbling from failure to failure with no loss of enthusiasm.
+p2044
+VWinston S. Churchill
+p2045
+tp2046
+a(VIf you think you are too small to make a difference, try sleeping with a mosquito.
+p2047
+VDalai Lama XIV
+p2048
+tp2049
+a(VSometimes you read a book so special that you want to carry it around with you for months after you've finished just to stay near it.
+p2050
+VMarkus Zusak
+p2051
+tp2052
+a(VIt's no good pretending that any relationship has a future if your record collections disagree violently or if your favorite films wouldn't even speak to each other if they met at a party.
+p2053
+VNick Hornby
+p2054
+tp2055
+a(VI drink to make other people more interesting.
+p2056
+VErnest Hemingway
+p2057
+tp2058
+a(VEveryone is a moon, and has a dark side which he never shows to anybody.
+p2059
+VMark Twain
+p2060
+tp2061
+a(VThe only real prison is fear, and the only real freedom is freedom from fear
+p2062
+VAung San Suu Kyi
+p2063
+tp2064
+a(VIt ain't what they call you, it's what you answer to.
+p2065
+VW.C. Fields
+p2066
+tp2067
+a(VLife is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.
+p2068
+VLao Tzu
+p2069
+tp2070
+a(VHave a heart that never hardens, and a temper that never tires, and a touch that never hurts.
+p2071
+VCharles Dickens
+p2072
+tp2073
+a(VThere must be those among whom we can sit down and weep and still be counted as warriors.
+p2074
+VAdrienne Rich
+p2075
+tp2076
+a(VYouth is happy because it has the capacity to see beauty. Anyone who keeps the ability to see beauty never grows old.
+p2077
+VFranz Kafka
+p2078
+tp2079
+a(VTomorrow may be hell, but today was a good writing day, and on the good writing days nothing else matters.
+p2080
+VNeil Gaiman
+p2081
+tp2082
+a(VIf you end up with a boring miserable life because you listened to your mom, your dad, your teacher, your priest, or some guy on television telling you how to do your shit, then you deserve it.
+p2083
+VFrank Zappa
+p2084
+tp2085
+a(VYou can have it all. Just not all at once.
+p2086
+VOprah Winfrey
+p2087
+tp2088
+a(VA smile is a curve that sets everything straight.
+p2089
+VPhyllis Diller
+p2090
+tp2091
+a(VBut in the end one needs more courage to live than to kill himself.
+p2092
+VAlbert Camus
+p2093
+tp2094
+a(VIf we couldn't laugh we would all go insane.
+p2095
+VRobert Frost
+p2096
+tp2097
+a(VThe library is inhabited by spirits that come out of the pages at night.
+p2098
+VIsabel Allende
+p2099
+tp2100
+a(VIf you want to know what God thinks of money, just look at the people he gave it to.
+p2101
+VDorothy Parker
+p2102
+tp2103
+a(VAnimals are my friends...and I don't eat my friends.
+p2104
+VGeorge Bernard Shaw
+p2105
+tp2106
+a(VWho, being loved, is poor?
+p2107
+VOscar Wilde
+p2108
+tp2109
+a(VChildren must be taught how to think, not what to think.
+p2110
+VMargaret Mead
+p2111
+tp2112
+a(VLost love is still love. It takes a different form, that's all. You can't see their smile or bring them food or tousle their hair or move them around a dance floor. But when those senses weaken another heightens. Memory. Memory becomes your partner. You nurture it. You hold it. You dance with it.
+p2113
+VMitch Albom
+p2114
+tp2115
+a(VI know I am but summer to your heart, and not the full four seasons of the year.
+p2116
+VEdna St. Vincent Millay
+p2117
+tp2118
+a(VI don't like people who have never fallen or stumbled. Their virtue is lifeless and it isn't of much value. Life hasn't revealed its beauty to them.
+p2119
+VBoris Pasternak
+p2120
+tp2121
+a(VAnyone can hide. Facing up to things, working through them, that's what makes you strong.
+p2122
+VSarah Dessen
+p2123
+tp2124
+a(VOlder men declare war. But it is youth that must fight and die.
+p2125
+VHerbert Hoover
+p2126
+tp2127
+a(VDo not read as children do to enjoy themselves, or, as the ambitious do to educate themselves. No, read to live.
+p2128
+VGustave Flaubert
+p2129
+tp2130
+a(VMy rapier wit hides my inner pain.
+p2131
+VCassandra Clare
+p2132
+tp2133
+a(VMy soul is from elsewhere, I'm sure of that, and I intend to end up there.
+p2134
+VJalaluddin Rumi
+p2135
+tp2136
+a(VWisdom comes from experience. Experience is often a result of lack of wisdom.
+p2137
+VTerry Pratchett
+p2138
+tp2139
+a(VCrying is for plain women. Pretty women go shopping.
+p2140
+VOscar Wilde
+p2141
+tp2142
+a(VA party without cake is just a meeting
+p2143
+VJulia Child
+p2144
+tp2145
+a(VWhen I saw you I fell in love, and you smiled because you knew.
+p2146
+VArrigo Boito
+p2147
+tp2148
+a(VIf A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut
+p2149
+VAlbert Einstein
+p2150
+tp2151
+a(VI get a warm feeling among my books.
+p2152
+VAnthony Powell
+p2153
+tp2154
+a(VNearly all men can stand adversity, but if you want to test a man's character, give him power.
+p2155
+VAbraham Lincoln
+p2156
+tp2157
+a(VRemembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.
+p2158
+VSteve Jobs
+p2159
+tp2160
+a(VThe glory of friendship is not the outstretched hand, not the kindly smile, nor the joy of companionship; it is the spiritual inspiration that comes to one when you discover that someone else believes in you and is willing to trust you with a friendship.
+p2161
+VRalph Waldo Emerson
+p2162
+tp2163
+a(VThe longer and more carefully we look at a funny story, the sadder it becomes.
+p2164
+VNikolai Gogol
+p2165
+tp2166
+a(VThe only way that we can live, is if we grow. The only way that we can grow is if we change. The only way that we can change is if we learn. The only way we can learn is if we are exposed. And the only way that we can become exposed is if we throw ourselves out into the open. Do it. Throw yourself.
+p2167
+VC. JoyBell C.
+p2168
+tp2169
+a(VThe greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively
+p2170
+VBob Marley
+p2171
+tp2172
+a(VWhen we are tired, we are attacked by ideas we conquered long ago.
+p2173
+VFriedrich Nietzsche
+p2174
+tp2175
+a(VI always arrive late at the office, but I make up for it by leaving early.
+p2176
+VCharles Lamb
+p2177
+tp2178
+a(VLife is not a matter of holding good cards, but of playing a poor hand well.
+p2179
+VRobert Louis Stevenson
+p2180
+tp2181
+a(VDon't waste your time with explanations: people only hear what they want to hear.
+p2182
+VPaulo Coelho
+p2183
+tp2184
+a(VThe purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.
+p2185
+VEleanor Roosevelt
+p2186
+tp2187
+a(VA library is infinity under a roof.
+p2188
+VGail Carson Levine
+p2189
+tp2190
+a(VNothing great in the world was accomplished without passion.
+p2191
+VGeorg Wilhelm Friedrich Hegel
+p2192
+tp2193
+a(VDo not think that love in order to be genuine has to be extraordinary. What we need is to love without getting tired. Be faithful in small things because it is in them that your strength lies.
+p2194
+VMother Teresa
+p2195
+tp2196
+a(VSometimes things fall apart so that better things can fall together
+p2197
+VMarilyn Monroe
+p2198
+tp2199
+a(VI have learned now that while those who speak about one's miseries usually hurt, those who keep silence hurt more.
+p2200
+VC.S. Lewis
+p2201
+tp2202
+a(VIf you have good friends, no matter how much life is sucking , they can make you laugh.
+p2203
+VP.C. Cast
+p2204
+tp2205
+a(VSomeone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.
+p2206
+VMary Oliver
+p2207
+tp2208
+a(VChange will not come if we wait for some other person, or if we wait for some other time. We are the ones we've been waiting for. We are the change that we seek.
+p2209
+VBarack Obama
+p2210
+tp2211
+a(VWhat do we live for, if it is not to make life less difficult for each other?
+p2212
+VGeorge Eliot
+p2213
+tp2214
+a(VNothing in the world is more dangerous than sincere ignorance and conscientious stupidity.
+p2215
+VMartin Luther King Jr.
+p2216
+tp2217
+a(VKindness is a language which the deaf can hear and the blind can see.
+p2218
+VMark Twain
+p2219
+tp2220
+a(VBlack holes are where God divided by zero.
+p2221
+VAlbert Einstein
+p2222
+tp2223
+a(VWhen one tugs at a single thing in nature, he finds it attached to the rest of the world.
+p2224
+VJohn Muir
+p2225
+tp2226
+a(VThere is only one good, knowledge, and one evil, ignorance.
+p2227
+VSocrates
+p2228
+tp2229
+a(VIf everybody is thinking alike, then somebody isn't thinking.
+p2230
+VGeorge S. Patton Jr.
+p2231
+tp2232
+a(VNever make someone a priority when all you are to them is an option.
+p2233
+VMaya Angelou
+p2234
+tp2235
+a(VWhere words leave off, music begins.
+p2236
+VHeinrich Heine
+p2237
+tp2238
+a(VBetter a cruel truth than a comfortable delusion.
+p2239
+VEdward Abbey
+p2240
+tp2241
+a(VOur memory is a more perfect world than the universe: it gives back life to those who no longer exist.
+p2242
+VGuy de Maupassant
+p2243
+tp2244
+a(VDon't bend; don't water it down; don't try to make it logical; don't edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly.
+p2245
+VFranz Kafka
+p2246
+tp2247
+a(VThe thing that makes you exceptional, if you are at all, is inevitably that which must also make you lonely.
+p2248
+VLorraine Hansberry
+p2249
+tp2250
+a(VFriendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.
+p2251
+VElie Wiesel
+p2252
+tp2253
+a(VNo winter lasts forever; no spring skips its turn.
+p2254
+VHal Borland
+p2255
+tp2256
+a(VI don't know who invented high heels, but all women owe him a lot!
+p2257
+VMarilyn Monroe
+p2258
+tp2259
+a(VI have the simplest tastes. I am always satisfied with the best.
+p2260
+VOscar Wilde
+p2261
+tp2262
+a(VNo one can construct for you the bridge upon which precisely you must cross the stream of life, no one but you yourself alone.
+p2263
+VFriedrich Nietzsche
+p2264
+tp2265
+a(VArt washes away from the soul the dust of everyday life.
+p2266
+VPablo Picasso
+p2267
+tp2268
+a(VKind words can be short and easy to speak, but their echoes are truly endless.
+p2269
+VMother Teresa
+p2270
+tp2271
+a(VThe last enemy that shall be destroyed is death.
+p2272
+VJ.K. Rowling
+p2273
+tp2274
+a(VBelieve only half of what you see and nothing that you hear.
+p2275
+VEdgar Allan Poe
+p2276
+tp2277
+a(VLearn from the mistakes of others. You can never live long enough to make them all yourself.
+p2278
+VGroucho Marx
+p2279
+tp2280
+a(VTell me and I forget, teach me and I may remember, involve me and I learn.
+p2281
+VBenjamin Franklin
+p2282
+tp2283
+a(VRemember me and smile, for it's better to forget than to remember me and cry.
+p2284
+VDr. Seuss
+p2285
+tp2286
+a(VYou must not lose faith in humanity. Humanity is like an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.
+p2287
+VMahatma Gandhi
+p2288
+tp2289
+a(VMy life has a superb cast, but I cannot figure out the plot.
+p2290
+VAshleigh Brilliant
+p2291
+tp2292
+a(VSome people have a way with words, and other people...oh, uh, not have way.
+p2293
+VSteve Martin
+p2294
+tp2295
+a(VIt takes courage to love, but pain through love is the purifying fire which those who love generously know. We all know people who are so much afraid of pain that they shut themselves up like clams in a shell and, giving out nothing, receive nothing and therefore shrink until life is a mere living death.
+p2296
+VEleanor Roosevelt
+p2297
+tp2298
+a(VYou can make anything by writing.
+p2299
+VC.S. Lewis
+p2300
+tp2301
+a(VReading is the sole means by which we slip, involuntarily, often helplessly, into another's skin, another's voice, another's soul.
+p2302
+VJoyce Carol Oates
+p2303
+tp2304
+a(VIt's not the size of the dog in the fight, it's the size of the fight in the dog.
+p2305
+VMark Twain
+p2306
+tp2307
+a(VLet the rain kiss you. Let the rain beat upon your head with silver liquid drops. Let the rain sing you a lullaby.
+p2308
+VLangston Hughes
+p2309
+tp2310
+a(VDon't spend time beating on a wall, hoping to transform it into a door.
+p2311
+VCoco Chanel
+p2312
+tp2313
+a(VShe feels in italics and thinks in CAPITALS.
+p2314
+VHenry James
+p2315
+tp2316
+a(VIf you love what you do and are willing to do what it takes, it's within your reach. And it'll be worth every minute you spend alone at night, thinking and thinking about what it is you want to design or build. It'll be worth it, I promise.
+p2317
+VSteve Wozniak
+p2318
+tp2319
+a(VThe best way to find yourself is to lose yourself in the service of others.
+p2320
+VMahatma Gandhi
+p2321
+tp2322
+a(VI hate to advocate drugs, alcohol, violence, or insanity to anyone, but they've always worked for me.
+p2323
+VHunter S. Thompson
+p2324
+tp2325
+a(VBetween two evils, I always pick the one I never tried before.
+p2326
+VMae West
+p2327
+tp2328
+a(VMake your own Bible. Select and collect all the words and sentences that in all your readings have been to you like the blast of a trumpet.
+p2329
+VRalph Waldo Emerson
+p2330
+tp2331
+a(VOne person's craziness is another person's reality.
+p2332
+VTim Burton
+p2333
+tp2334
+a(VThe longer I live, the more I observe that carrying around anger is the most debilitating to the person who bears it.
+p2335
+VKatharine Graham
+p2336
+tp2337
+a(VWe do not need magic to transform our world. We carry all of the power we need inside ourselves already.
+p2338
+VJ.K. Rowling
+p2339
+tp2340
+a(VThere's nowhere you can be that isn't where you're meant to be...
+p2341
+VJohn Lennon
+p2342
+tp2343
+a(VMy concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.
+p2344
+VAbraham Lincoln
+p2345
+tp2346
+a(VThe heart has its reasons which reason knows not.
+p2347
+VBlaise Pascal
+p2348
+tp2349
+a(VTo put everything in balance is good, to put everything in harmony is better.
+p2350
+VVictor Hugo
+p2351
+tp2352
+a(VYou can cut all the flowers but you cannot keep Spring from coming.
+p2353
+VPablo Neruda
+p2354
+tp2355
+a(VMy course is set for an uncharted sea.
+p2356
+VDante Alighieri
+p2357
+tp2358
+a(VBoring damned people. All over the earth. Propagating more boring damned people. What a horror show. The earth swarmed with them.
+p2359
+VCharles Bukowski
+p2360
+tp2361
+a(VWords dazzle and deceive because they are mimed by the face. But black words on a white page are the soul laid bare.
+p2362
+VGuy de Maupassant
+p2363
+tp2364
+a(VAll a girl really wants is for one guy to prove to her that they are not all the same.
+p2365
+VMarilyn Monroe
+p2366
+tp2367
+a(VIf you don't know history, then you don't know anything. You are a leaf that doesn't know it is part of a tree.
+p2368
+VMichael Crichton
+p2369
+tp2370
+a(VI'd rather be hated for who I am, than loved for who I am not.
+p2371
+VKurt Cobain
+p2372
+tp2373
+a(VThere is something delicious about writing the first words of a story. You never quite know where they'll take you.
+p2374
+VBeatrix Potter
+p2375
+tp2376
+a(VThe ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.
+p2377
+VMartin Luther King Jr.
+p2378
+tp2379
+a(VI'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.
+p2380
+VAbraham Lincoln
+p2381
+tp2382
+a(VSomewhere over the rainbow, skies are blue, and the dreams that you dare to dream really do come true.
+p2383
+VE.Y. Harburg
+p2384
+tp2385
+a(VWhen people talk, listen completely. Most people never listen.
+p2386
+VErnest Hemingway
+p2387
+tp2388
+a(VLittle by little, one travels far
+p2389
+VJ.R.R. Tolkien
+p2390
+tp2391
+a(VI write to give myself strength. I write to be the characters that I am not. I write to explore all the things I'm afraid of.
+p2392
+VJoss Whedon
+p2393
+tp2394
+a(VA woman's heart should be so hidden in God that a man has to seek Him just to find her.
+p2395
+VMaya Angelou
+p2396
+tp2397
+a(VIf I am really a part of your dream, you'll come back one day.
+p2398
+VPaulo Coelho
+p2399
+tp2400
+a(VBetter to die fighting for freedom then be a prisoner all the days of your life.
+p2401
+VBob Marley
+p2402
+tp2403
+a(VOnly you can control your future.
+p2404
+VDr. Seuss
+p2405
+tp2406
+a(VYou can only be young once. But you can always be immature.
+p2407
+VPat  Monahan
+p2408
+tp2409
+a(VI don't mind making jokes, but I don't want to look like one.
+p2410
+VMarilyn Monroe
+p2411
+tp2412
+a(VThe clearest way into the Universe is through a forest wilderness.
+p2413
+VJohn Muir
+p2414
+tp2415
+a(VChildren have never been very good at listening to their elders, but they have never failed to imitate them.
+p2416
+VJames     Baldwin
+p2417
+tp2418
+a(VBehind every beautiful thing, there's some kind of pain.
+p2419
+VBob Dylan
+p2420
+tp2421
+a(VWhen you read a book, you hold another's mind in your hands.
+p2422
+VJames  Burke
+p2423
+tp2424
+a(VThe only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.
+p2425
+VAlbert Camus
+p2426
+tp2427
+a(VShut your eyes and see.
+p2428
+VJames Joyce
+p2429
+tp2430
+a(VTears are words that need to be written.
+p2431
+VPaulo Coelho
+p2432
+tp2433
+a(VI've lived through some terrible things in my life, some of which actually happened.
+p2434
+VMark Twain
+p2435
+tp2436
+a(VIt's not worth doing something unless someone, somewhere, would much rather you weren't doing it.
+p2437
+VTerry Pratchett
+p2438
+tp2439
+a(VA word after a word after a word is power.
+p2440
+VMargaret Atwood
+p2441
+tp2442
+a(VI myself have never been able to find out precisely what feminism is: I only know that people call me a feminist whenever I express sentiments that differentiate me from a doormat.
+p2443
+VRebecca West
+p2444
+tp2445
+a(VThere are nights when the wolves are silent and only the moon howls.
+p2446
+VGeorge Carlin
+p2447
+tp2448
+a(VBe glad. Be good. Be brave.
+p2449
+VEleanor H. Porter
+p2450
+tp2451
+a(VSelfishness is not living as one wishes to live, it is asking others to live as one wishes to live.
+p2452
+VOscar Wilde
+p2453
+tp2454
+a(VIf you work really hard, and you're kind, amazing things will happen.
+p2455
+VConan O'Brien
+p2456
+tp2457
+a(VOnly those who will risk going too far can possibly find out how far one can go.
+p2458
+VT.S. Eliot
+p2459
+tp2460
+a(VBeing entirely honest with oneself is a good exercise.
+p2461
+VSigmund Freud
+p2462
+tp2463
+a(VIf you never did you should. These things are fun and fun is good.
+p2464
+VDr. Seuss
+p2465
+tp2466
+a(VThe trouble is not that I am single and likely to stay single, but that I am lonely and likely to stay lonely.
+p2467
+VCharlotte Bront
+p2468
+tp2469
+a(VNever be bullied into silence. Never allow yourself to be made a victim. Accept no one's definition of your life, but define yourself.
+p2470
+VHarvey Fierstein
+p2471
+tp2472
+a(VYou should write because you love the shape of stories and sentences and the creation of different words on a page. Writing comes from reading, and reading is the finest teacher of how to write.
+p2473
+VAnnie Proulx
+p2474
+tp2475
+a(VLife is a mirror: if you frown at it, it frowns back; if you smile, it returns the greeting.
+p2476
+VWilliam Makepeace Thackeray
+p2477
+tp2478
+a(VFrom childhood's hour I have not been. As others were, I have not seen. As others saw, I could not awaken. My heart to joy at the same tone. And all I loved, I loved alone.
+p2479
+VEdgar Allan Poe
+p2480
+tp2481
+a(VI am beginning to learn that it is the sweet, simple things of life which are the real ones after all.
+p2482
+VLaura Ingalls Wilder
+p2483
+tp2484
+a(VOnly the dead have seen the end of war.
+p2485
+VPlato
+p2486
+tp2487
+a(VThere is more than one way to burn a book. And the world is full of people running about with lit matches.
+p2488
+VRay Bradbury
+p2489
+tp2490
+a(VOnly a generation of readers will spawn a generation of writers.
+p2491
+VSteven Spielberg
+p2492
+tp2493
+a(VSex is part of nature. I go along with nature.
+p2494
+VMarilyn Monroe
+p2495
+tp2496
+a(VWhere you used to be, there is a hole in the world, which I find myself constantly walking around in the daytime, and falling in at night. I miss you like hell.
+p2497
+VEdna St. Vincent Millay
+p2498
+tp2499
+a(VI have nothing to declare except my genius.
+p2500
+VOscar Wilde
+p2501
+tp2502
+a(VThere are two ways of spreading light: to be the candle or the mirror that receives it.
+p2503
+VEdith Wharton
+p2504
+tp2505
+a(VYou know, Hobbes, some days even my lucky rocket ship underpants don't help.
+p2506
+VBill Watterson
+p2507
+tp2508
+a(VNothing takes the taste out of peanut butter quite like unrequited love.
+p2509
+VCharles M. Schulz
+p2510
+tp2511
+a(VThe best way to cheer yourself is to cheer somebody else up.
+p2512
+VAlbert Einstein
+p2513
+tp2514
+a(VNever underestimate the power of stupid people in large groups.
+p2515
+VGeorge Carlin
+p2516
+tp2517
+a(VI'm killing time while I wait for life to shower me with meaning and happiness.
+p2518
+VBill Watterson
+p2519
+tp2520
+a(VThe unfed mind devours itself.
+p2521
+VGore Vidal
+p2522
+tp2523
+a(VHistory does not always repeat itself. Sometimes it just yells, 'Can't you remember anything I told you?' and lets fly with a club.
+p2524
+VJohn W. Campbell Jr.
+p2525
+tp2526
+a(VIs there no way out of the mind?
+p2527
+VSylvia Plath
+p2528
+tp2529
+a(VDon't cry over someone who wouldn't cry over you.
+p2530
+VLauren Conrad
+p2531
+tp2532
+a(VI suffer from girlnextdooritis where the guy is friends with you and that's it.
+p2533
+VTaylor Swift
+p2534
+tp2535
+a(VThe snake which cannot cast its skin has to die. As well the minds which are prevented from changing their opinions; they cease to be mind.
+p2536
+VFriedrich Nietzsche
+p2537
+tp2538
+a(VEverything must be made as simple as possible. But not simpler.
+p2539
+VAlbert Einstein
+p2540
+tp2541
+a(VWriting is like sex. First you do it for love, then you do it for your friends, and then you do it for money.
+p2542
+VVirginia Woolf
+p2543
+tp2544
+a(VIt does not matter how slowly you go as long as you do not stop.
+p2545
+VConfucius
+p2546
+tp2547
+a(VWith enough courage, you can do without a reputation.
+p2548
+VMargaret Mitchell
+p2549
+tp2550
+a(VHappiness is something that comes into our lives through doors we don't even remember leaving open.
+p2551
+VRose Wilder Lane
+p2552
+tp2553
+a(VYou never know what life is like, until you have lived it.
+p2554
+VMarilyn Monroe
+p2555
+tp2556
+a(VThe past is never where you think you left it.
+p2557
+VKatherine Anne Porter
+p2558
+tp2559
+a(VChildren learn more from what you are than what you teach.
+p2560
+VW.E.B. Du Bois
+p2561
+tp2562
+a(VCourage is found in unlikely places.
+p2563
+VJ.R.R. Tolkien
+p2564
+tp2565
+a(VTrust your heart if the seas catch fire, live by love though the stars walk backward.
+p2566
+VE.E. Cummings
+p2567
+tp2568
+a(VWanting to be someone else is a waste of the person you are.
+p2569
+VMarilyn Monroe
+p2570
+tp2571
+a(VYou may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, how you can still come out of it.
+p2572
+VMaya Angelou
+p2573
+tp2574
+a(VA mother is the truest friend we have, when trials heavy and sudden fall upon us; when adversity takes the place of prosperity; when friends desert us; when trouble thickens around us, still will she cling to us, and endeavor by her kind precepts and counsels to dissipate the clouds of darkness, and cause peace to return to our hearts.
+p2575
+VWashington Irving
+p2576
+tp2577
+a(VRaise your words, not voice. It is rain that grows flowers, not thunder.
+p2578
+VJalaluddin Rumi
+p2579
+tp2580
+a(VName the greatest of all inventors. Accident.
+p2581
+VMark Twain
+p2582
+tp2583
+a(VRare as is true love, true friendship is rarer.
+p2584
+VJean de La Fontaine
+p2585
+tp2586
+a(VI feel free and strong. If I were not a reader of books I could not feel this way.
+p2587
+VWalter Tevis
+p2588
+tp2589
+a(VThat which can be asserted without evidence, can be dismissed without evidence.
+p2590
+VChristopher Hitchens
+p2591
+tp2592
+a(VThe only thing necessary for the triumph of evil is for good men to do nothing.
+p2593
+VEdmund Burke
+p2594
+tp2595
+a(VYou're something between a dream and a miracle.
+p2596
+VElizabeth Barrett Browning
+p2597
+tp2598
+a(VThe future depends on what you do today.
+p2599
+VMahatma Gandhi
+p2600
+tp2601
+a(VFashion is a form of ugliness so intolerable that we have to alter it every six months.
+p2602
+VOscar Wilde
+p2603
+tp2604
+a(VThe best way to cheer yourself is to try to cheer someone else up.
+p2605
+VMark Twain
+p2606
+tp2607
+a(VYou have everything needed for the extravagant journey that is your life.
+p2608
+VCarlos Castaneda
+p2609
+tp2610
+a(VThe most certain sign of wisdom is cheerfulness.
+p2611
+VMichel de Montaigne
+p2612
+tp2613
+a(VThe greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
+p2614
+VDaniel J. Boorstin
+p2615
+tp2616
+a(VA man is but the product of his thoughts. What he thinks, he becomes.
+p2617
+VMahatma Gandhi
+p2618
+tp2619
+a(VThis is how you do it: you sit down at the keyboard and you put one word after another until its done. It's that easy, and that hard.
+p2620
+VNeil Gaiman
+p2621
+tp2622
+a(VIf you liked being a teenager, there's something really wrong with you.
+p2623
+VStephen King
+p2624
+tp2625
+a(VThe only truth is music.
+p2626
+VJack Kerouac
+p2627
+tp2628
+a(VEver has it been that love knows not its own depth until the hour of separation.
+p2629
+VKahlil Gibran
+p2630
+tp2631
+a(VStories can conquer fear, you know. They can make the heart bigger.
+p2632
+VBen Okri
+p2633
+tp2634
+a(VLife is too short to waste any amount of time on wondering what other people think about you. In the first place, if they had better things going on in their lives, they wouldn't have the time to sit around and talk about you. What's important to me is not others' opinions of me, but what's important to me is my opinion of myself.
+p2635
+VC. JoyBell C.
+p2636
+tp2637
+a(VOne must dare to be happy.
+p2638
+VGertrude Stein
+p2639
+tp2640
+a(VIgnore those that make you fearful and sad, that degrade you back towards disease and death.
+p2641
+VJalaluddin Rumi
+p2642
+tp2643
+a(VI just want to be wonderful.
+p2644
+VMarilyn Monroe
+p2645
+tp2646
+a(VAll our dreams can come true, if we have the courage to pursue them.
+p2647
+VWalt Disney Company
+p2648
+tp2649
+a(VShe looked at nice young men as if she could smell their stupidity.
+p2650
+VFlannery O'Connor
+p2651
+tp2652
+a(VWhen you trip over love, it is easy to get up. But when you fall in love, it is impossible to stand again.
+p2653
+VAlbert Einstein
+p2654
+tp2655
+a(VI restore myself when I'm alone.
+p2656
+VMarilyn Monroe
+p2657
+tp2658
+a(VThis is a new year. A new beginning. And things will change.
+p2659
+VTaylor Swift
+p2660
+tp2661
+a(VWe do not believe in ourselves until someone reveals that deep inside us something is valuable, worth listening to, worthy of our trust, sacred to our touch. Once we believe in ourselves we can risk curiosity, wonder, spontaneous delight or any experience that reveals the human spirit.
+p2662
+VE.E. Cummings
+p2663
+tp2664
+a(VMany people will walk in and out of your life, but only true friends will leave footprints in your heart
+p2665
+VEleanor Roosevelt
+p2666
+tp2667
+a(VYou believe in a book that has talking animals, wizards, witches, demons, sticks turning into snakes, burning bushes, food falling from the sky, people walking on water, and all sorts of magical, absurd and primitive stories, and you say that we are the ones that need help?
+p2668
+VMark Twain
+p2669
+tp2670
+a(VThe past is always tense, the future perfect.
+p2671
+VZadie Smith
+p2672
+tp2673
+a(VMy alone feels so good, I'll only have you if you're sweeter than my solitude.
+p2674
+VWarsan Shire
+p2675
+tp2676
+a(VI cannot teach anybody anything. I can only make them think
+p2677
+VSocrates
+p2678
+tp2679
+a(VEvery weirdo in the world is on my wavelength.
+p2680
+VThomas Pynchon
+p2681
+tp2682
+a(VCry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.
+p2683
+VSteve Maraboli
+p2684
+tp2685
+a(VParents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands.
+p2686
+VAnne Frank
+p2687
+tp2688
+a(VAll good books are alike in that they are truer than if they had really happened and after you are finished reading one you will feel that all that happened to you and afterwards it all belongs to you: the good and the bad, the ecstasy, the remorse and sorrow, the people and the places and how the weather was. If you can get so that you can give that to people, then you are a writer.
+p2689
+VErnest Hemingway
+p2690
+tp2691
+a(VWe are always the same age inside.
+p2692
+VGertrude Stein
+p2693
+tp2694
+a(VIgnorance killed the cat; curiosity was framed!
+p2695
+VC.J. Cherryh
+p2696
+tp2697
+a(VEducation: the path from cocky ignorance to miserable uncertainty.
+p2698
+VMark Twain
+p2699
+tp2700
+a(VGood sex is like good bridge. If you don't have a good partner, you'd better have a good hand.
+p2701
+VMae West
+p2702
+tp2703
+a(VBeing the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something wonderful... that's what matters to me.
+p2704
+VSteve Jobs
+p2705
+tp2706
+a(VLove makes your soul crawl out from its hiding place.
+p2707
+VZora Neale Hurston
+p2708
+tp2709
+a(VBe thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough
+p2710
+VOprah Winfrey
+p2711
+tp2712
+a(VI never forget a face, but in your case I'll be glad to make an exception.
+p2713
+VGroucho Marx
+p2714
+tp2715
+a(VLife is a beautiful magnificent thing, even to a jellyfish.
+p2716
+VCharlie Chaplin
+p2717
+tp2718
+a(VTo give pleasure to a single heart by a single act is better than a thousand heads bowing in prayer.
+p2719
+VMahatma Gandhi
+p2720
+tp2721
+a(V...you can hate a place with all your heart and soul and still be homesick for it.
+p2722
+VJoseph Mitchell
+p2723
+tp2724
+a(VMay your trails be crooked, winding, lonesome, dangerous, leading to the most amazing view.
+p2725
+VEdward Abbey
+p2726
+tp2727
+a(VWe'd get sick on too many cookies, but ever so much sicker on no cookies at all.
+p2728
+VSinclair Lewis
+p2729
+tp2730
+a(VHope is a waking dream.
+p2731
+VAristotle
+p2732
+tp2733
+a(VBooks serve to show a man that those original thoughts of his aren't very new after all.
+p2734
+VAbraham Lincoln
+p2735
+tp2736
+a(VA man's face is his autobiography. A woman's face is her work of fiction.
+p2737
+VOscar Wilde
+p2738
+tp2739
+a(VWe shouldn't be looking for heroes, we should be looking for good ideas.
+p2740
+VNoam Chomsky
+p2741
+tp2742
+a(VAlways be a first rate version of yourself and not a second rate version of someone else.
+p2743
+VJudy Garland
+p2744
+tp2745
+a(VAs a woman I have no country. As a woman I want no country. As a woman, my country is the whole world.
+p2746
+VVirginia Woolf
+p2747
+tp2748
+a(VIt is very risky. But each time a child opens a book, he pushes open the gate that separates him from Elsewhere.
+p2749
+VLois Lowry
+p2750
+tp2751
+a(VI know some who are constantly drunk on books as other men are drunk on whiskey.
+p2752
+VH.L. Mencken
+p2753
+tp2754
+a(VI learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.
+p2755
+VNelson Mandela
+p2756
+tp2757
+a(VI'm afraid that sometimes you'll play lonely games too. Games you can't win 'cause you'll play against you.
+p2758
+VDr. Seuss
+p2759
+tp2760
+a(VThe more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction.
+p2761
+VRachel Carson
+p2762
+tp2763
+a(VHe died not for men, but for each man. If each man had been the only man made, He would have done no less.
+p2764
+VC.S. Lewis
+p2765
+tp2766
+a(VFreedom lies in being bold.
+p2767
+VRobert Frost
+p2768
+tp2769
+a(VAt the end of the day, we can endure much more than we think we can.
+p2770
+VFrida Kahlo
+p2771
+tp2772
+a(VWe are all born sexual creatures,thank God, but it's a pity so many people despise and crush this natural gift.
+p2773
+VMarilyn Monroe
+p2774
+tp2775
+a(VWhat is right is not always popular and what is popular is not always right.
+p2776
+VAlbert Einstein
+p2777
+tp2778
+a(VWomen want love to be a novel. Men, a short story.
+p2779
+VDaphne du Maurier
+p2780
+tp2781
+a(VOur finger prints don't fade from the lives we touch.
+p2782
+VJudy Blume
+p2783
+tp2784
+a(VWhen I'm good, I'm very good, but when I'm bad, I'm better.
+p2785
+VMae West
+p2786
+tp2787
+a(VLearn the rules, break the rules, make up new rules, break the new rules.
+p2788
+VMarvin Bell
+p2789
+tp2790
+a(VIf you want to get laid, go to college. If you want an education, go to the library.
+p2791
+VFrank Zappa
+p2792
+tp2793
+a(VEither you deal with what is the reality, or you can be sure that the reality is going to deal with you.
+p2794
+VAlex Haley
+p2795
+tp2796
+a(VWhenever you feel like criticizing any one...just remember that all the people in this world haven't had the advantages that you've had.
+p2797
+VF. Scott Fitzgerald
+p2798
+tp2799
+a(VIn life, finding a voice is speaking and living the truth. Each of you is an original. Each of you has a distinctive voice. When you find it, your story will be told. You will be heard.
+p2800
+VJohn Grisham
+p2801
+tp2802
+a(VThe mind I love must have wild places.
+p2803
+VKatherine Mansfield
+p2804
+tp2805
+a(VBut I didn't understand then. That I could hurt somebody so badly she would never recover. That a person can, just by living, damage another human being beyond repair.
+p2806
+VHaruki Murakami
+p2807
+tp2808
+a(VLet no one ever come to you without leaving better and happier. Be the living expression of God's kindness: kindness in your face, kindness in your eyes, kindness in your smile.
+p2809
+VMother Teresa
+p2810
+tp2811
+a(VThe most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love and to be greater than our suffering.
+p2812
+VBen Okri
+p2813
+tp2814
+a(VHumor is reason gone mad.
+p2815
+VGroucho Marx
+p2816
+tp2817
+a(VFor me, literacy means freedom. For the individual and for society.
+p2818
+VLeVar Burton
+p2819
+tp2820
+a(VGreat minds discuss ideas. Average minds discuss events. Small minds discuss people.
+p2821
+VHenry Thomas Buckle
+p2822
+tp2823
+a(VEverything that irritates us about others can lead us to an understanding of ourselves.
+p2824
+VC.G. Jung
+p2825
+tp2826
+a(VAll I have seen teaches me to trust the Creator for all I have not seen.
+p2827
+VRalph Waldo Emerson
+p2828
+tp2829
+a(VDo no harm and leave the world a better place than you found it.
+p2830
+VPatricia Cornwell
+p2831
+tp2832
+a(VIf you have enough book space, I don't want to talk to you.
+p2833
+VTerry Pratchett
+p2834
+tp2835
+a(VIn individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.
+p2836
+VFriedrich Nietzsche
+p2837
+tp2838
+a(VDreams come true. Without that possibility, nature would not incite us to have them.
+p2839
+VJohn Updike
+p2840
+tp2841
+a(VWhat draws people to be friends is that they see the same truth. They share it.
+p2842
+VC.S. Lewis
+p2843
+tp2844
+a(VYou alone are enough. You have nothing to prove to anybody.
+p2845
+VMaya Angelou
+p2846
+tp2847
+a(VIf I read a book and it makes my whole body so cold no fire can ever warm me, I know that is poetry.
+p2848
+VEmily Dickinson
+p2849
+tp2850
+a(VThis is how it works. I love the people in my life, and I do for my friends whatever they need me to do for them, again and again, as many times as is necessary. For example, in your case you always forgot who you are and how much you're loved. So what I do for you as your friend is remind you who you are and tell you how much I love you. And this isn't any kind of burden for me, because I love who you are very much. Every time I remind you, I get to remember with you, which is my pleasure.
+p2851
+VJames Lecesne
+p2852
+tp2853
+a(VNo good deed goes unpunished.
+p2854
+VOscar Wilde
+p2855
+tp2856
+a(VHowever many holy words you read, however many you speak, what good will they do you if you do not act on upon them?
+p2857
+VGautama Buddha
+p2858
+tp2859
+a(VThe problem with doing nothing is not knowing when you are finished.
+p2860
+VNelson DeMille
+p2861
+tp2862
+a(VAnybody can sympathise with the sufferings of a friend, but it requires a very fine nature to sympathise with a friend's success.
+p2863
+VOscar Wilde
+p2864
+tp2865
+a(VA bit of trash now and then is good for the severest reader. It provides the necessary roughage in the literary diet.
+p2866
+VPhyllis McGinley
+p2867
+tp2868
+a(VBooks are no more threatened by Kindle than stairs by elevators.
+p2869
+VStephen Fry
+p2870
+tp2871
+a(VIt's the mortal cup Jace, not the mortal toilet bowl.
+p2872
+VCassandra Clare
+p2873
+tp2874
+a(VWe can't be afraid of change. You may feel very secure in the pond that you are in, but if you never venture out of it, you will never know that there is such a thing as an ocean, a sea. Holding onto something that is good for you now, may be the very reason why you don't have something better.
+p2875
+VC. JoyBell C.
+p2876
+tp2877
+a(VWhen I say it's you I like, I'm talking about that part of you that knows that life is far more than anything you can ever see or hear or touch. That deep part of you that allows you to stand for those things without which humankind cannot survive. Love that conquers hate, peace that rises triumphant over war, and justice that proves more powerful than greed.
+p2878
+VFred Rogers
+p2879
+tp2880
+a(VA paranoid is someone who knows a little of what's going on.
+p2881
+VWilliam S. Burroughs
+p2882
+tp2883
+a(VWhen I do good, I feel good. When I do bad, I feel bad. That's my religion.
+p2884
+VAbraham Lincoln
+p2885
+tp2886
+a(VMan often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.
+p2887
+VMahatma Gandhi
+p2888
+tp2889
+a(VAsk for what you want and be prepared to get it!
+p2890
+VMaya Angelou
+p2891
+tp2892
+a(VShoot for the moon. Even if you miss, you'll land among the stars.
+p2893
+VNorman Vincent Peale
+p2894
+tp2895
+a(VIf I am not good to myself, how can I expect anyone else to be good to me?
+p2896
+VMaya Angelou
+p2897
+tp2898
+a(VBooks: a beautifully browsable invention that needs no electricity and exists in a readable form no matter what happens.
+p2899
+VNicholson Baker
+p2900
+tp2901
+a(VYou can't wait for inspiration. You have to go after it with a club.
+p2902
+VJack London
+p2903
+tp2904
+a(VImagination does not become great until human beings, given the courage and the strength, use it to create.
+p2905
+VMaria Montessori
+p2906
+tp2907
+a(VThe most terrible poverty is loneliness, and the feeling of being unloved.
+p2908
+VMother Teresa
+p2909
+tp2910
+a(VI don't think there is any truth. There are only points of view.
+p2911
+VAllen Ginsberg
+p2912
+tp2913
+a(VWe are each our own devil, and we make this world our hell.
+p2914
+VOscar Wilde
+p2915
+tp2916
+a(VOne day you will ask me which is more important? My life or yours? I will say mine and you will walk away not knowing that you are my life.
+p2917
+VKahlil Gibran
+p2918
+tp2919
+a(VSee, the problem is that God gives men a brain and a penis, and only enough blood to run one at a time.
+p2920
+VRobin Williams
+p2921
+tp2922
+a(VI am not interested in being original. I am interested in being true.
+p2923
+VAgostinho da Silva
+p2924
+tp2925
+a(VIf you are a student you should always get a good nights sleep unless you have come to the good part of your book, and then you should stay up all night and let your schoolwork fall by the wayside, a phrase which means 'flunk'.
+p2926
+VLemony Snicket
+p2927
+tp2928
+a(VThe world is full of magic things, patiently waiting for our senses to grow sharper.
+p2929
+VW.B. Yeats
+p2930
+tp2931
+a(VAlways be a poet, even in prose.
+p2932
+VCharles Baudelaire
+p2933
+tp2934
+a(VLife doesn't imitate art, it imitates bad television.
+p2935
+VWoody Allen
+p2936
+tp2937
+a(VI know of a cure for everything: salt water...in one way or the other. Sweat, or tears, or the salt sea.
+p2938
+VKaren Blixen
+p2939
+tp2940
+a(Vif you love two people at the same time, choose the second. Because if you really loved the first one, you wouldn't have fallen for the second.
+p2941
+VJohnny Depp
+p2942
+tp2943
+a(VYour thorns are the best part of you.
+p2944
+VMarianne Moore
+p2945
+tp2946
+a(VOnly people who are capable of loving strongly can also suffer great sorrow, but this same necessity of loving serves to counteract their grief and heals them.
+p2947
+VLeo Tolstoy
+p2948
+tp2949
+a(VDress shabbily and they remember the dress; dress impeccably and they remember the woman.
+p2950
+VCoco Chanel
+p2951
+tp2952
+a(VIf you love something set it free, but don't be surprised if it comes back with herpes.
+p2953
+VChuck Palahniuk
+p2954
+tp2955
+a(VThe best way out is always through.
+p2956
+VRobert Frost
+p2957
+tp2958
+a(VLaugh and the world laughs with you, snore and you sleep alone.
+p2959
+VAnthony Burgess
+p2960
+tp2961
+a(VThe worst thing about new books is that they keep us from reading the old ones.
+p2962
+VJoseph Joubert
+p2963
+tp2964
+a(VI was born with an enormous need for affection, and a terrible need to give it.
+p2965
+VAudrey Hepburn
+p2966
+tp2967
+a(VBe awesome! Be a book nut!
+p2968
+VDr. Seuss
+p2969
+tp2970
+a(VWhoever is careless with the truth in small matters cannot be trusted with important matters
+p2971
+VAlbert Einstein
+p2972
+tp2973
+a(VWhenever people agree with me I always feel I must be wrong.
+p2974
+VOscar Wilde
+p2975
+tp2976
+a(VThe question is not what you look at, but what you see.
+p2977
+VHenry David Thoreau
+p2978
+tp2979
+a(VAfter all, Ginger Rogers did everything that Fred Astaire did. She just did it backwards and in high heels.
+p2980
+VAnn Richards
+p2981
+tp2982
+a(VNever miss a good chance to shut up.
+p2983
+VWill Rogers
+p2984
+tp2985
+a(VSometimes it takes a good fall to really know where you stand
+p2986
+VHayley Williams
+p2987
+tp2988
+a(VIf everyone demanded peace instead of another television set, then there'd be peace.
+p2989
+VJohn Lennon
+p2990
+tp2991
+a(VThe easy confidence with which I know another man's religion is folly teaches me to suspect that my own is also.
+p2992
+VMark Twain
+p2993
+tp2994
+a(VThe difference between sex and love is that sex relieves tension and love causes it.
+p2995
+VWoody Allen
+p2996
+tp2997
+a(VI don't know where I'm going, but I'm on my way.
+p2998
+VCarl Sandburg
+p2999
+tp3000
+a(VIf my doctor told me I had only six minutes to live, I wouldn't brood. I'd type a little faster.
+p3001
+VIsaac Asimov
+p3002
+tp3003
+a(VI believe in God, but not as one thing, not as an old man in the sky. I believe that what people call God is something in all of us. I believe that what Jesus and Mohammed and Buddha and all the rest said was right. It's just that the translations have gone wrong.
+p3004
+VJohn Lennon
+p3005
+tp3006
+a(VOnly someone who is well prepared has the opportunity to improvise.
+p3007
+VIngmar Bergman
+p3008
+tp3009
+a(VSo we shall let the reader answer this question for himself: who is the happier man, he who has braved the storm of life and lived or he who has stayed securely on shore and merely existed?
+p3010
+VHunter S. Thompson
+p3011
+tp3012
+a(VOne of the deep secrets of life is that all that is really worth the doing is what we do for others.
+p3013
+VLewis Carroll
+p3014
+tp3015
+a(VWhat a kid I got, I told him about the birds and the bees and he told me about the butcher and my wife.
+p3016
+VRodney Dangerfield
+p3017
+tp3018
+a(VAlone. Yes, that's the key word, the most awful word in the English tongue. Murder doesn't hold a candle to it and hell is only a poor synonym.
+p3019
+VStephen King
+p3020
+tp3021
+a(VMy religion is very simple. My religion is kindness.
+p3022
+VDalai Lama XIV
+p3023
+tp3024
+a(VBook collecting is an obsession, an occupation, a disease, an addiction, a fascination, an absurdity, a fate. It is not a hobby. Those who do it must do it. Those who do not do it, think of it as a cousin of stamp collecting, a sister of the trophy cabinet, bastard of a sound bank account and a weak mind.
+p3025
+VJeanette Winterson
+p3026
+tp3027
+a(VThat's what fiction is for. It's for getting at the truth when the truth isn't sufficient for the truth.
+p3028
+VTim O'Brien
+p3029
+tp3030
+a(VCharm is the ability to make someone else think that both of you are pretty wonderful.
+p3031
+VKathleen Winsor
+p3032
+tp3033
+a(VOrdinary life is pretty complex stuff.
+p3034
+VHarvey Pekar
+p3035
+tp3036
+a(VThose who cannot change their minds cannot change anything.
+p3037
+VGeorge Bernard Shaw
+p3038
+tp3039
+a(VFeminism is the radical notion that women are human beings.
+p3040
+VCheris Kramarae
+p3041
+tp3042
+a(VNever be afraid to sit awhile and think.
+p3043
+VLorraine Hansberry
+p3044
+tp3045
+a(VThe unhappiest people in this world, are those who care the most about what other people think.
+p3046
+VC. JoyBell C.
+p3047
+tp3048
+a(VBlessed are the hearts that can bend; they shall never be broken.
+p3049
+VAlbert Camus
+p3050
+tp3051
+a(VThere is nothing more dreadful than the habit of doubt. Doubt separates people. It is a poison that disintegrates friendships and breaks up pleasant relations. It is a thorn that irritates and hurts; it is a sword that kills.
+p3052
+VGautama Buddha
+p3053
+tp3054
+a(VWhat I've come to learn is that the world is never saved in grand messianic gestures, but in the simple accumulation of gentle, soft, almost invisible acts of compassion.
+p3055
+VChris Abani
+p3056
+tp3057
+a(VThe price good men pay for indifference to public affairs is to be ruled by evil men.
+p3058
+VPlato
+p3059
+tp3060
+a(VPeace cannot be kept by force; it can only be achieved by understanding.
+p3061
+VAlbert Einstein
+p3062
+tp3063
+a(VIf you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.
+p3064
+VNora Roberts
+p3065
+tp3066
+a(VWhen the enemy has no face, society will invent one.
+p3067
+VSusan Faludi
+p3068
+tp3069
+a(VAdventure is worthwhile in itself.
+p3070
+VAmelia Earhart
+p3071
+tp3072
+a(VThe way to get started is to quit talking and begin doing.
+p3073
+VWalt Disney Company
+p3074
+tp3075
+a(VLife is like a prism. What you see depends on how you turn the glass.
+p3076
+VJonathan Kellerman
+p3077
+tp3078
+a(VIdeas are easy. It's the execution of ideas that really separates the sheep from the goats.
+p3079
+VSue Grafton
+p3080
+tp3081
+a(VThe main reason Santa is so jolly is because he knows where all the bad girls live.
+p3082
+VGeorge Carlin
+p3083
+tp3084
+a(VIn the middle of difficulty lies opportunity
+p3085
+VAlbert Einstein
+p3086
+tp3087
+a(VMen marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed.
+p3088
+VH.M. Harwood
+p3089
+tp3090
+a(VIf we have no peace, it is because we have forgotten that we belong to each other.
+p3091
+VMother Teresa
+p3092
+tp3093
+a(VThe greatness of a nation and its moral progress can be judged by the way its animals are treated.
+p3094
+VMahatma Gandhi
+p3095
+tp3096
+a(VI know all those words, but that sentence makes no sense to me.
+p3097
+VMatt Groening
+p3098
+tp3099
+a(VIf you want to be happy, be.
+p3100
+VLeo Tolstoy
+p3101
+tp3102
+a(VWhatever you do, you need courage. Whatever course you decide upon, there is always someone to tell you that you are wrong. There are always difficulties arising that tempt you to believe your critics are right. To map out a course of action and follow it to an end requires some of the same courage that a soldier needs. Peace has its victories, but it takes brave men and women to win them.
+p3103
+VRalph Waldo Emerson
+p3104
+tp3105
+a(VIt is not the length of life, but the depth.
+p3106
+VRalph Waldo Emerson
+p3107
+tp3108
+a(VBooks fall open, you fall in.
+p3109
+VDavid T.W. McCord
+p3110
+tp3111
+a(VLiterature is a luxury; fiction is a necessity.
+p3112
+VG.K. Chesterton
+p3113
+tp3114
+a(VThe advantage of a bad memory is that one enjoys several times the same good things for the first time.
+p3115
+VFriedrich Nietzsche
+p3116
+tp3117
+a(VPoetry is what gets lost in translation.
+p3118
+VRobert Frost
+p3119
+tp3120
+a(VIt takes a lot of time to be a genius. You have to sit around so much, doing nothing, really doing nothing.
+p3121
+VGertrude Stein
+p3122
+tp3123
+a(VLove can make even nice people do awful things.
+p3124
+VJude Deveraux
+p3125
+tp3126
+a(VThe pursuit of truth and beauty is a sphere of activity in which we are permitted to remain children all our lives.
+p3127
+VAlbert Einstein
+p3128
+tp3129
+a(VDare to live the life you have dreamed for yourself. Go forward and make your dreams come true.
+p3130
+VRalph Waldo Emerson
+p3131
+tp3132
+a(VThe desire to reach for the stars is ambitious. The desire to reach hearts is wise.
+p3133
+VMaya Angelou
+p3134
+tp3135
+a(VChaos often breeds life, when order breeds habit.
+p3136
+VHenry Adams
+p3137
+tp3138
+a(VHe who knows all the answers has not been asked all the questions.
+p3139
+VConfucius
+p3140
+tp3141
+a(VI'll try anything once, twice if I like it, three times to make sure.
+p3142
+VMae West
+p3143
+tp3144
+a(VLovers don't finally meet somewhere. They're in each other all along.
+p3145
+VJalaluddin Rumi
+p3146
+tp3147
+a(VI believe in being strong when everything seems to be going wrong. I believe that happy girls are the prettiest girls. I believe that tomorrow is another day, and I believe in miracles
+p3148
+VAudrey Hepburn
+p3149
+tp3150
+a(VIt is better to offer no excuse than a bad one.
+p3151
+VGeorge Washington
+p3152
+tp3153
+a(VIf you try to fail, and succeed, which have you done?
+p3154
+VGeorge Carlin
+p3155
+tp3156
+a(VThe real voyage of discovery consists not in seeking new landscapes, but in having new eyes.
+p3157
+VMarcel Proust
+p3158
+tp3159
+a(VListen to them, the children of the night. What music they make!
+p3160
+VBram Stoker
+p3161
+tp3162
+a(VWe are all born mad. Some remain so.
+p3163
+VSamuel Beckett
+p3164
+tp3165
+a(VNo matter how plain a woman may be, if truth and honesty are written across her face, she will be beautiful.
+p3166
+VEleanor Roosevelt
+p3167
+tp3168
+a(VHappiness quite unshared can scarcely be called happiness; it has no taste.
+p3169
+VCharlotte Bront
+p3170
+tp3171
+a(VThe earth laughs in flowers.
+p3172
+VRalph Waldo Emerson
+p3173
+tp3174
+a.
